@@ -1,0 +1,6666 @@
+
+Root : 0
+Kink : 179
+Edges: 1036
+Path : 0 ~> 619513
+
+Root : 700
+Kink : 179
+Edges: 1036
+Path : 700 ~> 619513
+
+Root : 2200
+Kink : 179
+Edges: 1035
+Path : 2200 ~> 619513
+
+Root : 3400
+Kink : 179
+Edges: 1034
+Path : 3400 ~> 619513
+
+Root : 4600
+Kink : 179
+Edges: 1033
+Path : 4600 ~> 619513
+
+Root : 5800
+Kink : 179
+Edges: 1032
+Path : 5800 ~> 619513
+
+Root : 7000
+Kink : 179
+Edges: 1031
+Path : 7000 ~> 619513
+
+Root : 8200
+Kink : 179
+Edges: 1030
+Path : 8200 ~> 619513
+
+Root : 9400
+Kink : 179
+Edges: 1029
+Path : 9400 ~> 619513
+
+Root : 10600
+Kink : 179
+Edges: 1028
+Path : 10600 ~> 619513
+
+Root : 11799
+Kink : 179
+Edges: 1027
+Path : 11799 ~> 619513
+
+Root : 13000
+Kink : 179
+Edges: 1026
+Path : 13000 ~> 619513
+
+Root : 14200
+Kink : 179
+Edges: 1025
+Path : 14200 ~> 619513
+
+Root : 15400
+Kink : 179
+Edges: 1024
+Path : 15400 ~> 619513
+
+Root : 16600
+Kink : 179
+Edges: 1023
+Path : 16600 ~> 619513
+
+Root : 17700
+Kink : 179
+Edges: 1023
+Path : 17700 ~> 619513
+
+Root : 17800
+Kink : 179
+Edges: 1022
+Path : 17800 ~> 619513
+
+Root : 19000
+Kink : 179
+Edges: 1021
+Path : 19000 ~> 619513
+
+Root : 20200
+Kink : 179
+Edges: 1020
+Path : 20200 ~> 619513
+
+Root : 21400
+Kink : 179
+Edges: 1019
+Path : 21400 ~> 619513
+
+Root : 22600
+Kink : 179
+Edges: 1018
+Path : 22600 ~> 619513
+
+Root : 23800
+Kink : 179
+Edges: 1017
+Path : 23800 ~> 619513
+
+Root : 25000
+Kink : 179
+Edges: 1016
+Path : 25000 ~> 619513
+
+Root : 26200
+Kink : 179
+Edges: 1015
+Path : 26200 ~> 619513
+
+Root : 27400
+Kink : 179
+Edges: 1014
+Path : 27400 ~> 619513
+
+Root : 28600
+Kink : 179
+Edges: 1013
+Path : 28600 ~> 619513
+
+Root : 29800
+Kink : 179
+Edges: 1012
+Path : 29800 ~> 619513
+
+Root : 30999
+Kink : 179
+Edges: 1011
+Path : 30999 ~> 619513
+
+Root : 32200
+Kink : 179
+Edges: 1010
+Path : 32200 ~> 619513
+
+Root : 33400
+Kink : 179
+Edges: 1009
+Path : 33400 ~> 619513
+
+Root : 34600
+Kink : 179
+Edges: 1008
+Path : 34600 ~> 619513
+
+Root : 35800
+Kink : 179
+Edges: 1007
+Path : 35800 ~> 619513
+
+Root : 36900
+Kink : 179
+Edges: 1007
+Path : 36900 ~> 619513
+
+Root : 37000
+Kink : 179
+Edges: 1006
+Path : 37000 ~> 619513
+
+Root : 38200
+Kink : 179
+Edges: 1005
+Path : 38200 ~> 619513
+
+Root : 39400
+Kink : 179
+Edges: 1004
+Path : 39400 ~> 619513
+
+Root : 40600
+Kink : 179
+Edges: 1003
+Path : 40600 ~> 619513
+
+Root : 41800
+Kink : 179
+Edges: 1002
+Path : 41800 ~> 619513
+
+Root : 43000
+Kink : 179
+Edges: 1001
+Path : 43000 ~> 619513
+
+Root : 44200
+Kink : 179
+Edges: 1000
+Path : 44200 ~> 619513
+
+Root : 45400
+Kink : 179
+Edges: 999
+Path : 45400 ~> 619513
+
+Root : 46600
+Kink : 179
+Edges: 998
+Path : 46600 ~> 619513
+
+Root : 47800
+Kink : 179
+Edges: 997
+Path : 47800 ~> 619513
+
+Root : 49000
+Kink : 179
+Edges: 996
+Path : 49000 ~> 619513
+
+Root : 50199
+Kink : 179
+Edges: 995
+Path : 50199 ~> 619513
+
+Root : 51400
+Kink : 179
+Edges: 994
+Path : 51400 ~> 619513
+
+Root : 52600
+Kink : 179
+Edges: 993
+Path : 52600 ~> 619513
+
+Root : 53800
+Kink : 179
+Edges: 992
+Path : 53800 ~> 619513
+
+Root : 55000
+Kink : 179
+Edges: 991
+Path : 55000 ~> 619513
+
+Root : 56100
+Kink : 179
+Edges: 991
+Path : 56100 ~> 619513
+
+Root : 56200
+Kink : 179
+Edges: 990
+Path : 56200 ~> 619513
+
+Root : 57400
+Kink : 179
+Edges: 989
+Path : 57400 ~> 619513
+
+Root : 58600
+Kink : 179
+Edges: 988
+Path : 58600 ~> 619513
+
+Root : 59800
+Kink : 179
+Edges: 987
+Path : 59800 ~> 619513
+
+Root : 61000
+Kink : 179
+Edges: 986
+Path : 61000 ~> 619513
+
+Root : 62200
+Kink : 179
+Edges: 985
+Path : 62200 ~> 619513
+
+Root : 63400
+Kink : 179
+Edges: 984
+Path : 63400 ~> 619513
+
+Root : 64600
+Kink : 179
+Edges: 983
+Path : 64600 ~> 619513
+
+Root : 65800
+Kink : 179
+Edges: 982
+Path : 65800 ~> 619513
+
+Root : 67000
+Kink : 179
+Edges: 981
+Path : 67000 ~> 619513
+
+Root : 68200
+Kink : 179
+Edges: 980
+Path : 68200 ~> 619513
+
+Root : 69399
+Kink : 179
+Edges: 979
+Path : 69399 ~> 619513
+
+Root : 70600
+Kink : 179
+Edges: 978
+Path : 70600 ~> 619513
+
+Root : 71800
+Kink : 179
+Edges: 977
+Path : 71800 ~> 619513
+
+Root : 73000
+Kink : 179
+Edges: 976
+Path : 73000 ~> 619513
+
+Root : 74200
+Kink : 179
+Edges: 975
+Path : 74200 ~> 619513
+
+Root : 75300
+Kink : 179
+Edges: 975
+Path : 75300 ~> 619513
+
+Root : 75400
+Kink : 179
+Edges: 974
+Path : 75400 ~> 619513
+
+Root : 76600
+Kink : 179
+Edges: 973
+Path : 76600 ~> 619513
+
+Root : 77800
+Kink : 179
+Edges: 972
+Path : 77800 ~> 619513
+
+Root : 79000
+Kink : 179
+Edges: 971
+Path : 79000 ~> 619513
+
+Root : 80200
+Kink : 179
+Edges: 970
+Path : 80200 ~> 619513
+
+Root : 81400
+Kink : 179
+Edges: 969
+Path : 81400 ~> 619513
+
+Root : 82600
+Kink : 179
+Edges: 968
+Path : 82600 ~> 619513
+
+Root : 83800
+Kink : 179
+Edges: 967
+Path : 83800 ~> 619513
+
+Root : 85000
+Kink : 179
+Edges: 966
+Path : 85000 ~> 619513
+
+Root : 86200
+Kink : 179
+Edges: 965
+Path : 86200 ~> 619513
+
+Root : 87400
+Kink : 179
+Edges: 964
+Path : 87400 ~> 619513
+
+Root : 88599
+Kink : 179
+Edges: 963
+Path : 88599 ~> 619513
+
+Root : 89800
+Kink : 179
+Edges: 962
+Path : 89800 ~> 619513
+
+Root : 91000
+Kink : 179
+Edges: 961
+Path : 91000 ~> 619513
+
+Root : 92200
+Kink : 179
+Edges: 960
+Path : 92200 ~> 619513
+
+Root : 93400
+Kink : 179
+Edges: 959
+Path : 93400 ~> 619513
+
+Root : 94500
+Kink : 179
+Edges: 959
+Path : 94500 ~> 619513
+
+Root : 94600
+Kink : 179
+Edges: 958
+Path : 94600 ~> 619513
+
+Root : 95800
+Kink : 179
+Edges: 957
+Path : 95800 ~> 619513
+
+Root : 97000
+Kink : 179
+Edges: 956
+Path : 97000 ~> 619513
+
+Root : 98200
+Kink : 179
+Edges: 955
+Path : 98200 ~> 619513
+
+Root : 99400
+Kink : 179
+Edges: 954
+Path : 99400 ~> 619513
+
+Root : 100600
+Kink : 179
+Edges: 953
+Path : 100600 ~> 619513
+
+Root : 101800
+Kink : 179
+Edges: 952
+Path : 101800 ~> 619513
+
+Root : 103000
+Kink : 179
+Edges: 951
+Path : 103000 ~> 619513
+
+Root : 104200
+Kink : 179
+Edges: 950
+Path : 104200 ~> 619513
+
+Root : 105400
+Kink : 179
+Edges: 949
+Path : 105400 ~> 619513
+
+Root : 106600
+Kink : 179
+Edges: 948
+Path : 106600 ~> 619513
+
+Root : 107799
+Kink : 179
+Edges: 947
+Path : 107799 ~> 619513
+
+Root : 109000
+Kink : 179
+Edges: 946
+Path : 109000 ~> 619513
+
+Root : 110200
+Kink : 179
+Edges: 945
+Path : 110200 ~> 619513
+
+Root : 111400
+Kink : 179
+Edges: 944
+Path : 111400 ~> 619513
+
+Root : 112600
+Kink : 179
+Edges: 943
+Path : 112600 ~> 619513
+
+Root : 113700
+Kink : 179
+Edges: 943
+Path : 113700 ~> 619513
+
+Root : 113800
+Kink : 179
+Edges: 942
+Path : 113800 ~> 619513
+
+Root : 115000
+Kink : 179
+Edges: 941
+Path : 115000 ~> 619513
+
+Root : 116200
+Kink : 179
+Edges: 940
+Path : 116200 ~> 619513
+
+Root : 117400
+Kink : 179
+Edges: 939
+Path : 117400 ~> 619513
+
+Root : 118600
+Kink : 179
+Edges: 938
+Path : 118600 ~> 619513
+
+Root : 119800
+Kink : 179
+Edges: 937
+Path : 119800 ~> 619513
+
+Root : 120900
+Kink : 179
+Edges: 936
+Path : 120900 ~> 619513
+
+Root : 122000
+Kink : 179
+Edges: 935
+Path : 122000 ~> 619513
+
+Root : 123100
+Kink : 179
+Edges: 934
+Path : 123100 ~> 619513
+
+Root : 124200
+Kink : 179
+Edges: 933
+Path : 124200 ~> 619513
+
+Root : 125300
+Kink : 179
+Edges: 932
+Path : 125300 ~> 619513
+
+Root : 126399
+Kink : 179
+Edges: 931
+Path : 126399 ~> 619513
+
+Root : 127500
+Kink : 179
+Edges: 930
+Path : 127500 ~> 619513
+
+Root : 128600
+Kink : 179
+Edges: 929
+Path : 128600 ~> 619513
+
+Root : 129700
+Kink : 179
+Edges: 928
+Path : 129700 ~> 619513
+
+Root : 130800
+Kink : 179
+Edges: 927
+Path : 130800 ~> 619513
+
+Root : 131799
+Kink : 179
+Edges: 926
+Path : 131799 ~> 619513
+
+Root : 131800
+Kink : 179
+Edges: 926
+Path : 131800 ~> 619513
+
+Root : 131900
+Kink : 179
+Edges: 925
+Path : 131900 ~> 619513
+
+Root : 133000
+Kink : 179
+Edges: 924
+Path : 133000 ~> 619513
+
+Root : 134100
+Kink : 179
+Edges: 923
+Path : 134100 ~> 619513
+
+Root : 135200
+Kink : 179
+Edges: 922
+Path : 135200 ~> 619513
+
+Root : 136300
+Kink : 179
+Edges: 921
+Path : 136300 ~> 619513
+
+Root : 137200
+Kink : 179
+Edges: 921
+Path : 137200 ~> 619513
+
+Root : 137400
+Kink : 179
+Edges: 920
+Path : 137400 ~> 619513
+
+Root : 138500
+Kink : 179
+Edges: 919
+Path : 138500 ~> 619513
+
+Root : 139600
+Kink : 179
+Edges: 918
+Path : 139600 ~> 619513
+
+Root : 140700
+Kink : 179
+Edges: 917
+Path : 140700 ~> 619513
+
+Root : 141800
+Kink : 179
+Edges: 916
+Path : 141800 ~> 619513
+
+Root : 142900
+Kink : 179
+Edges: 915
+Path : 142900 ~> 619513
+
+Root : 143999
+Kink : 179
+Edges: 914
+Path : 143999 ~> 619513
+
+Root : 145100
+Kink : 179
+Edges: 913
+Path : 145100 ~> 619513
+
+Root : 146200
+Kink : 179
+Edges: 912
+Path : 146200 ~> 619513
+
+Root : 147300
+Kink : 179
+Edges: 911
+Path : 147300 ~> 619513
+
+Root : 148400
+Kink : 179
+Edges: 910
+Path : 148400 ~> 619513
+
+Root : 149399
+Kink : 179
+Edges: 909
+Path : 149399 ~> 619513
+
+Root : 149400
+Kink : 179
+Edges: 909
+Path : 149400 ~> 619513
+
+Root : 149500
+Kink : 179
+Edges: 908
+Path : 149500 ~> 619513
+
+Root : 150600
+Kink : 179
+Edges: 907
+Path : 150600 ~> 619513
+
+Root : 151700
+Kink : 179
+Edges: 906
+Path : 151700 ~> 619513
+
+Root : 152800
+Kink : 179
+Edges: 905
+Path : 152800 ~> 619513
+
+Root : 153900
+Kink : 179
+Edges: 904
+Path : 153900 ~> 619513
+
+Root : 154800
+Kink : 179
+Edges: 904
+Path : 154800 ~> 619513
+
+Root : 155000
+Kink : 179
+Edges: 903
+Path : 155000 ~> 619513
+
+Root : 156100
+Kink : 179
+Edges: 902
+Path : 156100 ~> 619513
+
+Root : 157200
+Kink : 179
+Edges: 901
+Path : 157200 ~> 619513
+
+Root : 158300
+Kink : 179
+Edges: 900
+Path : 158300 ~> 619513
+
+Root : 159400
+Kink : 179
+Edges: 899
+Path : 159400 ~> 619513
+
+Root : 160500
+Kink : 179
+Edges: 898
+Path : 160500 ~> 619513
+
+Root : 161599
+Kink : 179
+Edges: 897
+Path : 161599 ~> 619513
+
+Root : 162700
+Kink : 179
+Edges: 896
+Path : 162700 ~> 619513
+
+Root : 163800
+Kink : 179
+Edges: 895
+Path : 163800 ~> 619513
+
+Root : 164900
+Kink : 179
+Edges: 894
+Path : 164900 ~> 619513
+
+Root : 166000
+Kink : 179
+Edges: 893
+Path : 166000 ~> 619513
+
+Root : 166999
+Kink : 179
+Edges: 892
+Path : 166999 ~> 619513
+
+Root : 167000
+Kink : 179
+Edges: 892
+Path : 167000 ~> 619513
+
+Root : 167100
+Kink : 179
+Edges: 891
+Path : 167100 ~> 619513
+
+Root : 168200
+Kink : 179
+Edges: 890
+Path : 168200 ~> 619513
+
+Root : 169300
+Kink : 179
+Edges: 889
+Path : 169300 ~> 619513
+
+Root : 170400
+Kink : 179
+Edges: 888
+Path : 170400 ~> 619513
+
+Root : 171500
+Kink : 179
+Edges: 887
+Path : 171500 ~> 619513
+
+Root : 172400
+Kink : 179
+Edges: 887
+Path : 172400 ~> 619513
+
+Root : 172600
+Kink : 179
+Edges: 886
+Path : 172600 ~> 619513
+
+Root : 173700
+Kink : 179
+Edges: 885
+Path : 173700 ~> 619513
+
+Root : 174800
+Kink : 179
+Edges: 884
+Path : 174800 ~> 619513
+
+Root : 175900
+Kink : 179
+Edges: 883
+Path : 175900 ~> 619513
+
+Root : 177000
+Kink : 179
+Edges: 882
+Path : 177000 ~> 619513
+
+Root : 178100
+Kink : 179
+Edges: 881
+Path : 178100 ~> 619513
+
+Root : 179199
+Kink : 179
+Edges: 880
+Path : 179199 ~> 619513
+
+Root : 180300
+Kink : 179
+Edges: 879
+Path : 180300 ~> 619513
+
+Root : 181400
+Kink : 179
+Edges: 878
+Path : 181400 ~> 619513
+
+Root : 182500
+Kink : 179
+Edges: 877
+Path : 182500 ~> 619513
+
+Root : 183600
+Kink : 179
+Edges: 876
+Path : 183600 ~> 619513
+
+Root : 184599
+Kink : 179
+Edges: 875
+Path : 184599 ~> 619513
+
+Root : 184600
+Kink : 179
+Edges: 875
+Path : 184600 ~> 619513
+
+Root : 184700
+Kink : 179
+Edges: 874
+Path : 184700 ~> 619513
+
+Root : 185800
+Kink : 179
+Edges: 873
+Path : 185800 ~> 619513
+
+Root : 186810
+Kink : 179
+Edges: 872
+Path : 186810 ~> 619513
+
+Root : 187420
+Kink : 179
+Edges: 871
+Path : 187420 ~> 619513
+
+Root : 187820
+Kink : 179
+Edges: 870
+Path : 187820 ~> 619513
+
+Root : 188430
+Kink : 179
+Edges: 869
+Path : 188430 ~> 619513
+
+Root : 188830
+Kink : 179
+Edges: 868
+Path : 188830 ~> 619513
+
+Root : 189440
+Kink : 179
+Edges: 867
+Path : 189440 ~> 619513
+
+Root : 189640
+Kink : 179
+Edges: 867
+Path : 189640 ~> 619513
+
+Root : 189840
+Kink : 179
+Edges: 866
+Path : 189840 ~> 619513
+
+Root : 190450
+Kink : 179
+Edges: 865
+Path : 190450 ~> 619513
+
+Root : 190850
+Kink : 179
+Edges: 864
+Path : 190850 ~> 619513
+
+Root : 191460
+Kink : 179
+Edges: 863
+Path : 191460 ~> 619513
+
+Root : 191860
+Kink : 179
+Edges: 862
+Path : 191860 ~> 619513
+
+Root : 192470
+Kink : 179
+Edges: 861
+Path : 192470 ~> 619513
+
+Root : 192870
+Kink : 179
+Edges: 860
+Path : 192870 ~> 619513
+
+Root : 193479
+Kink : 179
+Edges: 859
+Path : 193479 ~> 619513
+
+Root : 193880
+Kink : 179
+Edges: 858
+Path : 193880 ~> 619513
+
+Root : 194490
+Kink : 179
+Edges: 857
+Path : 194490 ~> 619513
+
+Root : 194890
+Kink : 179
+Edges: 856
+Path : 194890 ~> 619513
+
+Root : 195500
+Kink : 179
+Edges: 855
+Path : 195500 ~> 619513
+
+Root : 195899
+Kink : 179
+Edges: 854
+Path : 195899 ~> 619513
+
+Root : 196510
+Kink : 179
+Edges: 853
+Path : 196510 ~> 619513
+
+Root : 196910
+Kink : 179
+Edges: 852
+Path : 196910 ~> 619513
+
+Root : 197520
+Kink : 179
+Edges: 851
+Path : 197520 ~> 619513
+
+Root : 197920
+Kink : 179
+Edges: 850
+Path : 197920 ~> 619513
+
+Root : 198530
+Kink : 179
+Edges: 849
+Path : 198530 ~> 619513
+
+Root : 198930
+Kink : 179
+Edges: 848
+Path : 198930 ~> 619513
+
+Root : 199540
+Kink : 179
+Edges: 847
+Path : 199540 ~> 619513
+
+Root : 199940
+Kink : 179
+Edges: 846
+Path : 199940 ~> 619513
+
+Root : 200550
+Kink : 179
+Edges: 845
+Path : 200550 ~> 619513
+
+Root : 200849
+Kink : 179
+Edges: 844
+Path : 200849 ~> 619513
+
+Root : 200850
+Kink : 179
+Edges: 844
+Path : 200850 ~> 619513
+
+Root : 200950
+Kink : 179
+Edges: 843
+Path : 200950 ~> 619513
+
+Root : 201560
+Kink : 179
+Edges: 842
+Path : 201560 ~> 619513
+
+Root : 201960
+Kink : 179
+Edges: 841
+Path : 201960 ~> 619513
+
+Root : 202570
+Kink : 179
+Edges: 840
+Path : 202570 ~> 619513
+
+Root : 202970
+Kink : 179
+Edges: 839
+Path : 202970 ~> 619513
+
+Root : 203580
+Kink : 179
+Edges: 838
+Path : 203580 ~> 619513
+
+Root : 203980
+Kink : 179
+Edges: 837
+Path : 203980 ~> 619513
+
+Root : 204590
+Kink : 179
+Edges: 836
+Path : 204590 ~> 619513
+
+Root : 204990
+Kink : 179
+Edges: 835
+Path : 204990 ~> 619513
+
+Root : 205600
+Kink : 179
+Edges: 834
+Path : 205600 ~> 619513
+
+Root : 205800
+Kink : 179
+Edges: 834
+Path : 205800 ~> 619513
+
+Root : 206000
+Kink : 179
+Edges: 833
+Path : 206000 ~> 619513
+
+Root : 206610
+Kink : 179
+Edges: 832
+Path : 206610 ~> 619513
+
+Root : 207010
+Kink : 179
+Edges: 831
+Path : 207010 ~> 619513
+
+Root : 207620
+Kink : 179
+Edges: 830
+Path : 207620 ~> 619513
+
+Root : 208020
+Kink : 179
+Edges: 829
+Path : 208020 ~> 619513
+
+Root : 208630
+Kink : 179
+Edges: 828
+Path : 208630 ~> 619513
+
+Root : 209030
+Kink : 179
+Edges: 827
+Path : 209030 ~> 619513
+
+Root : 209639
+Kink : 179
+Edges: 826
+Path : 209639 ~> 619513
+
+Root : 210040
+Kink : 179
+Edges: 825
+Path : 210040 ~> 619513
+
+Root : 210650
+Kink : 179
+Edges: 824
+Path : 210650 ~> 619513
+
+Root : 211050
+Kink : 179
+Edges: 823
+Path : 211050 ~> 619513
+
+Root : 211660
+Kink : 179
+Edges: 822
+Path : 211660 ~> 619513
+
+Root : 212059
+Kink : 179
+Edges: 821
+Path : 212059 ~> 619513
+
+Root : 212670
+Kink : 179
+Edges: 820
+Path : 212670 ~> 619513
+
+Root : 213070
+Kink : 179
+Edges: 819
+Path : 213070 ~> 619513
+
+Root : 213680
+Kink : 179
+Edges: 818
+Path : 213680 ~> 619513
+
+Root : 214080
+Kink : 179
+Edges: 817
+Path : 214080 ~> 619513
+
+Root : 214690
+Kink : 179
+Edges: 816
+Path : 214690 ~> 619513
+
+Root : 215090
+Kink : 179
+Edges: 815
+Path : 215090 ~> 619513
+
+Root : 215700
+Kink : 179
+Edges: 814
+Path : 215700 ~> 619513
+
+Root : 216100
+Kink : 179
+Edges: 813
+Path : 216100 ~> 619513
+
+Root : 216710
+Kink : 179
+Edges: 812
+Path : 216710 ~> 619513
+
+Root : 217009
+Kink : 179
+Edges: 811
+Path : 217009 ~> 619513
+
+Root : 217010
+Kink : 179
+Edges: 811
+Path : 217010 ~> 619513
+
+Root : 217110
+Kink : 179
+Edges: 810
+Path : 217110 ~> 619513
+
+Root : 217720
+Kink : 179
+Edges: 809
+Path : 217720 ~> 619513
+
+Root : 218120
+Kink : 179
+Edges: 808
+Path : 218120 ~> 619513
+
+Root : 218730
+Kink : 179
+Edges: 807
+Path : 218730 ~> 619513
+
+Root : 219130
+Kink : 179
+Edges: 806
+Path : 219130 ~> 619513
+
+Root : 219740
+Kink : 179
+Edges: 805
+Path : 219740 ~> 619513
+
+Root : 220140
+Kink : 179
+Edges: 804
+Path : 220140 ~> 619513
+
+Root : 220750
+Kink : 179
+Edges: 803
+Path : 220750 ~> 619513
+
+Root : 221150
+Kink : 179
+Edges: 802
+Path : 221150 ~> 619513
+
+Root : 221760
+Kink : 179
+Edges: 801
+Path : 221760 ~> 619513
+
+Root : 221960
+Kink : 179
+Edges: 801
+Path : 221960 ~> 619513
+
+Root : 222160
+Kink : 179
+Edges: 800
+Path : 222160 ~> 619513
+
+Root : 222770
+Kink : 179
+Edges: 799
+Path : 222770 ~> 619513
+
+Root : 223170
+Kink : 179
+Edges: 798
+Path : 223170 ~> 619513
+
+Root : 223780
+Kink : 179
+Edges: 797
+Path : 223780 ~> 619513
+
+Root : 224180
+Kink : 179
+Edges: 796
+Path : 224180 ~> 619513
+
+Root : 224790
+Kink : 179
+Edges: 795
+Path : 224790 ~> 619513
+
+Root : 225190
+Kink : 179
+Edges: 794
+Path : 225190 ~> 619513
+
+Root : 225799
+Kink : 179
+Edges: 793
+Path : 225799 ~> 619513
+
+Root : 226200
+Kink : 179
+Edges: 792
+Path : 226200 ~> 619513
+
+Root : 226500
+Kink : 179
+Edges: 792
+Path : 226500 ~> 619513
+
+Root : 226600
+Kink : 179
+Edges: 791
+Path : 226600 ~> 619513
+
+Root : 226900
+Kink : 177
+Edges: 788
+Path : 226900 ~> 619513
+
+Root : 227000
+Kink : 179
+Edges: 791
+Path : 227000 ~> 619513
+
+Root : 227200
+Kink : 179
+Edges: 790
+Path : 227200 ~> 619513
+
+Root : 227300
+Kink : 177
+Edges: 788
+Path : 227300 ~> 619513
+
+Root : 227600
+Kink : 177
+Edges: 787
+Path : 227600 ~> 619513
+
+Root : 227700
+Kink : 177
+Edges: 787
+Path : 227700 ~> 619513
+
+Root : 228000
+Kink : 177
+Edges: 786
+Path : 228000 ~> 619513
+
+Root : 228100
+Kink : 177
+Edges: 786
+Path : 228100 ~> 619513
+
+Root : 228400
+Kink : 177
+Edges: 785
+Path : 228400 ~> 619513
+
+Root : 228500
+Kink : 177
+Edges: 785
+Path : 228500 ~> 619513
+
+Root : 228800
+Kink : 177
+Edges: 784
+Path : 228800 ~> 619513
+
+Root : 228900
+Kink : 177
+Edges: 784
+Path : 228900 ~> 619513
+
+Root : 229200
+Kink : 177
+Edges: 783
+Path : 229200 ~> 619513
+
+Root : 229300
+Kink : 175
+Edges: 782
+Path : 229300 ~> 619513
+
+Root : 229700
+Kink : 175
+Edges: 782
+Path : 229700 ~> 619513
+
+Root : 230000
+Kink : 175
+Edges: 781
+Path : 230000 ~> 619513
+
+Root : 230100
+Kink : 175
+Edges: 781
+Path : 230100 ~> 619513
+
+Root : 230400
+Kink : 175
+Edges: 780
+Path : 230400 ~> 619513
+
+Root : 230500
+Kink : 175
+Edges: 780
+Path : 230500 ~> 619513
+
+Root : 230800
+Kink : 175
+Edges: 779
+Path : 230800 ~> 619513
+
+Root : 230900
+Kink : 175
+Edges: 779
+Path : 230900 ~> 619513
+
+Root : 231200
+Kink : 175
+Edges: 778
+Path : 231200 ~> 619513
+
+Root : 231300
+Kink : 173
+Edges: 779
+Path : 231300 ~> 619513
+
+Root : 231500
+Kink : 175
+Edges: 778
+Path : 231500 ~> 619513
+
+Root : 231600
+Kink : 175
+Edges: 777
+Path : 231600 ~> 619513
+
+Root : 231700
+Kink : 173
+Edges: 779
+Path : 231700 ~> 619513
+
+Root : 232000
+Kink : 173
+Edges: 778
+Path : 232000 ~> 619513
+
+Root : 232100
+Kink : 173
+Edges: 778
+Path : 232100 ~> 619513
+
+Root : 232400
+Kink : 173
+Edges: 777
+Path : 232400 ~> 619513
+
+Root : 232500
+Kink : 173
+Edges: 777
+Path : 232500 ~> 619513
+
+Root : 232800
+Kink : 173
+Edges: 776
+Path : 232800 ~> 619513
+
+Root : 232900
+Kink : 173
+Edges: 776
+Path : 232900 ~> 619513
+
+Root : 233200
+Kink : 173
+Edges: 775
+Path : 233200 ~> 619513
+
+Root : 233300
+Kink : 171
+Edges: 777
+Path : 233300 ~> 619513
+
+Root : 233400
+Kink : 173
+Edges: 775
+Path : 233400 ~> 619513
+
+Root : 233600
+Kink : 173
+Edges: 774
+Path : 233600 ~> 619513
+
+Root : 233700
+Kink : 171
+Edges: 777
+Path : 233700 ~> 619513
+
+Root : 234000
+Kink : 171
+Edges: 776
+Path : 234000 ~> 619513
+
+Root : 234100
+Kink : 171
+Edges: 776
+Path : 234100 ~> 619513
+
+Root : 234400
+Kink : 171
+Edges: 775
+Path : 234400 ~> 619513
+
+Root : 234500
+Kink : 171
+Edges: 775
+Path : 234500 ~> 619513
+
+Root : 234800
+Kink : 171
+Edges: 774
+Path : 234800 ~> 619513
+
+Root : 234900
+Kink : 171
+Edges: 774
+Path : 234900 ~> 619513
+
+Root : 235200
+Kink : 171
+Edges: 773
+Path : 235200 ~> 619513
+
+Root : 235300
+Kink : 171
+Edges: 773
+Path : 235300 ~> 619513
+
+Root : 235600
+Kink : 171
+Edges: 772
+Path : 235600 ~> 619513
+
+Root : 235700
+Kink : 169
+Edges: 772
+Path : 235700 ~> 619513
+
+Root : 236100
+Kink : 169
+Edges: 772
+Path : 236100 ~> 619513
+
+Root : 236400
+Kink : 169
+Edges: 771
+Path : 236400 ~> 619513
+
+Root : 236500
+Kink : 169
+Edges: 771
+Path : 236500 ~> 619513
+
+Root : 236800
+Kink : 169
+Edges: 770
+Path : 236800 ~> 619513
+
+Root : 236900
+Kink : 169
+Edges: 770
+Path : 236900 ~> 619513
+
+Root : 237200
+Kink : 169
+Edges: 769
+Path : 237200 ~> 619513
+
+Root : 237300
+Kink : 169
+Edges: 769
+Path : 237300 ~> 619513
+
+Root : 237600
+Kink : 169
+Edges: 768
+Path : 237600 ~> 619513
+
+Root : 237700
+Kink : 167
+Edges: 768
+Path : 237700 ~> 619513
+
+Root : 237900
+Kink : 169
+Edges: 768
+Path : 237900 ~> 619513
+
+Root : 238000
+Kink : 169
+Edges: 767
+Path : 238000 ~> 619513
+
+Root : 238100
+Kink : 167
+Edges: 768
+Path : 238100 ~> 619513
+
+Root : 238400
+Kink : 167
+Edges: 767
+Path : 238400 ~> 619513
+
+Root : 238500
+Kink : 167
+Edges: 767
+Path : 238500 ~> 619513
+
+Root : 238800
+Kink : 167
+Edges: 766
+Path : 238800 ~> 619513
+
+Root : 238900
+Kink : 167
+Edges: 766
+Path : 238900 ~> 619513
+
+Root : 239200
+Kink : 167
+Edges: 765
+Path : 239200 ~> 619513
+
+Root : 239300
+Kink : 167
+Edges: 765
+Path : 239300 ~> 619513
+
+Root : 239600
+Kink : 167
+Edges: 764
+Path : 239600 ~> 619513
+
+Root : 239700
+Kink : 165
+Edges: 766
+Path : 239700 ~> 619513
+
+Root : 239800
+Kink : 167
+Edges: 764
+Path : 239800 ~> 619513
+
+Root : 240000
+Kink : 167
+Edges: 763
+Path : 240000 ~> 619513
+
+Root : 240100
+Kink : 165
+Edges: 766
+Path : 240100 ~> 619513
+
+Root : 240400
+Kink : 165
+Edges: 765
+Path : 240400 ~> 619513
+
+Root : 240500
+Kink : 165
+Edges: 765
+Path : 240500 ~> 619513
+
+Root : 240800
+Kink : 165
+Edges: 764
+Path : 240800 ~> 619513
+
+Root : 240900
+Kink : 165
+Edges: 764
+Path : 240900 ~> 619513
+
+Root : 241200
+Kink : 165
+Edges: 763
+Path : 241200 ~> 619513
+
+Root : 241300
+Kink : 165
+Edges: 763
+Path : 241300 ~> 619513
+
+Root : 241600
+Kink : 165
+Edges: 762
+Path : 241600 ~> 619513
+
+Root : 241700
+Kink : 165
+Edges: 762
+Path : 241700 ~> 619513
+
+Root : 242000
+Kink : 165
+Edges: 761
+Path : 242000 ~> 619513
+
+Root : 242100
+Kink : 163
+Edges: 764
+Path : 242100 ~> 619513
+
+Root : 242500
+Kink : 163
+Edges: 764
+Path : 242500 ~> 619513
+
+Root : 242800
+Kink : 163
+Edges: 763
+Path : 242800 ~> 619513
+
+Root : 242900
+Kink : 163
+Edges: 763
+Path : 242900 ~> 619513
+
+Root : 243200
+Kink : 163
+Edges: 762
+Path : 243200 ~> 619513
+
+Root : 243300
+Kink : 163
+Edges: 762
+Path : 243300 ~> 619513
+
+Root : 243600
+Kink : 163
+Edges: 761
+Path : 243600 ~> 619513
+
+Root : 243700
+Kink : 163
+Edges: 761
+Path : 243700 ~> 619513
+
+Root : 244000
+Kink : 163
+Edges: 760
+Path : 244000 ~> 619513
+
+Root : 244100
+Kink : 161
+Edges: 762
+Path : 244100 ~> 619513
+
+Root : 244300
+Kink : 163
+Edges: 760
+Path : 244300 ~> 619513
+
+Root : 244400
+Kink : 163
+Edges: 759
+Path : 244400 ~> 619513
+
+Root : 244500
+Kink : 161
+Edges: 762
+Path : 244500 ~> 619513
+
+Root : 244800
+Kink : 161
+Edges: 761
+Path : 244800 ~> 619513
+
+Root : 244900
+Kink : 161
+Edges: 761
+Path : 244900 ~> 619513
+
+Root : 245200
+Kink : 161
+Edges: 760
+Path : 245200 ~> 619513
+
+Root : 245300
+Kink : 161
+Edges: 760
+Path : 245300 ~> 619513
+
+Root : 245600
+Kink : 161
+Edges: 759
+Path : 245600 ~> 619513
+
+Root : 245700
+Kink : 161
+Edges: 759
+Path : 245700 ~> 619513
+
+Root : 246000
+Kink : 161
+Edges: 758
+Path : 246000 ~> 619513
+
+Root : 246100
+Kink : 159
+Edges: 760
+Path : 246100 ~> 619513
+
+Root : 246200
+Kink : 161
+Edges: 758
+Path : 246200 ~> 619513
+
+Root : 246400
+Kink : 161
+Edges: 757
+Path : 246400 ~> 619513
+
+Root : 246500
+Kink : 159
+Edges: 760
+Path : 246500 ~> 619513
+
+Root : 246800
+Kink : 159
+Edges: 759
+Path : 246800 ~> 619513
+
+Root : 246900
+Kink : 159
+Edges: 759
+Path : 246900 ~> 619513
+
+Root : 247200
+Kink : 159
+Edges: 758
+Path : 247200 ~> 619513
+
+Root : 247300
+Kink : 159
+Edges: 758
+Path : 247300 ~> 619513
+
+Root : 247600
+Kink : 159
+Edges: 757
+Path : 247600 ~> 619513
+
+Root : 247700
+Kink : 159
+Edges: 757
+Path : 247700 ~> 619513
+
+Root : 248000
+Kink : 159
+Edges: 756
+Path : 248000 ~> 619513
+
+Root : 248100
+Kink : 159
+Edges: 756
+Path : 248100 ~> 619513
+
+Root : 248400
+Kink : 159
+Edges: 755
+Path : 248400 ~> 619513
+
+Root : 248500
+Kink : 157
+Edges: 758
+Path : 248500 ~> 619513
+
+Root : 248900
+Kink : 157
+Edges: 758
+Path : 248900 ~> 619513
+
+Root : 249200
+Kink : 157
+Edges: 757
+Path : 249200 ~> 619513
+
+Root : 249300
+Kink : 157
+Edges: 757
+Path : 249300 ~> 619513
+
+Root : 249600
+Kink : 157
+Edges: 756
+Path : 249600 ~> 619513
+
+Root : 249700
+Kink : 157
+Edges: 756
+Path : 249700 ~> 619513
+
+Root : 250000
+Kink : 157
+Edges: 755
+Path : 250000 ~> 619513
+
+Root : 250100
+Kink : 157
+Edges: 755
+Path : 250100 ~> 619513
+
+Root : 250400
+Kink : 157
+Edges: 754
+Path : 250400 ~> 619513
+
+Root : 250500
+Kink : 155
+Edges: 754
+Path : 250500 ~> 619513
+
+Root : 250700
+Kink : 157
+Edges: 754
+Path : 250700 ~> 619513
+
+Root : 250800
+Kink : 157
+Edges: 753
+Path : 250800 ~> 619513
+
+Root : 250900
+Kink : 155
+Edges: 754
+Path : 250900 ~> 619513
+
+Root : 251200
+Kink : 155
+Edges: 753
+Path : 251200 ~> 619513
+
+Root : 251300
+Kink : 155
+Edges: 753
+Path : 251300 ~> 619513
+
+Root : 251600
+Kink : 155
+Edges: 752
+Path : 251600 ~> 619513
+
+Root : 251700
+Kink : 155
+Edges: 752
+Path : 251700 ~> 619513
+
+Root : 252000
+Kink : 155
+Edges: 751
+Path : 252000 ~> 619513
+
+Root : 252100
+Kink : 155
+Edges: 751
+Path : 252100 ~> 619513
+
+Root : 252400
+Kink : 155
+Edges: 750
+Path : 252400 ~> 619513
+
+Root : 252500
+Kink : 153
+Edges: 748
+Path : 252500 ~> 619513
+
+Root : 252600
+Kink : 155
+Edges: 750
+Path : 252600 ~> 619513
+
+Root : 252800
+Kink : 155
+Edges: 749
+Path : 252800 ~> 619513
+
+Root : 252900
+Kink : 153
+Edges: 748
+Path : 252900 ~> 619513
+
+Root : 253200
+Kink : 153
+Edges: 747
+Path : 253200 ~> 619513
+
+Root : 253300
+Kink : 153
+Edges: 747
+Path : 253300 ~> 619513
+
+Root : 253600
+Kink : 153
+Edges: 746
+Path : 253600 ~> 619513
+
+Root : 253700
+Kink : 153
+Edges: 746
+Path : 253700 ~> 619513
+
+Root : 254000
+Kink : 153
+Edges: 745
+Path : 254000 ~> 619513
+
+Root : 254100
+Kink : 153
+Edges: 745
+Path : 254100 ~> 619513
+
+Root : 254400
+Kink : 153
+Edges: 744
+Path : 254400 ~> 619513
+
+Root : 254500
+Kink : 153
+Edges: 744
+Path : 254500 ~> 619513
+
+Root : 254800
+Kink : 153
+Edges: 743
+Path : 254800 ~> 619513
+
+Root : 254900
+Kink : 151
+Edges: 746
+Path : 254900 ~> 619513
+
+Root : 255300
+Kink : 151
+Edges: 746
+Path : 255300 ~> 619513
+
+Root : 255600
+Kink : 151
+Edges: 745
+Path : 255600 ~> 619513
+
+Root : 255700
+Kink : 151
+Edges: 745
+Path : 255700 ~> 619513
+
+Root : 256000
+Kink : 151
+Edges: 744
+Path : 256000 ~> 619513
+
+Root : 256100
+Kink : 151
+Edges: 744
+Path : 256100 ~> 619513
+
+Root : 256400
+Kink : 151
+Edges: 743
+Path : 256400 ~> 619513
+
+Root : 256500
+Kink : 151
+Edges: 743
+Path : 256500 ~> 619513
+
+Root : 256800
+Kink : 151
+Edges: 742
+Path : 256800 ~> 619513
+
+Root : 256900
+Kink : 149
+Edges: 741
+Path : 256900 ~> 619513
+
+Root : 257100
+Kink : 151
+Edges: 742
+Path : 257100 ~> 619513
+
+Root : 257200
+Kink : 151
+Edges: 741
+Path : 257200 ~> 619513
+
+Root : 257300
+Kink : 149
+Edges: 741
+Path : 257300 ~> 619513
+
+Root : 257600
+Kink : 149
+Edges: 740
+Path : 257600 ~> 619513
+
+Root : 257700
+Kink : 149
+Edges: 740
+Path : 257700 ~> 619513
+
+Root : 258000
+Kink : 149
+Edges: 739
+Path : 258000 ~> 619513
+
+Root : 258100
+Kink : 149
+Edges: 739
+Path : 258100 ~> 619513
+
+Root : 258400
+Kink : 149
+Edges: 738
+Path : 258400 ~> 619513
+
+Root : 258500
+Kink : 149
+Edges: 738
+Path : 258500 ~> 619513
+
+Root : 258800
+Kink : 149
+Edges: 737
+Path : 258800 ~> 619513
+
+Root : 258900
+Kink : 147
+Edges: 737
+Path : 258900 ~> 619513
+
+Root : 259000
+Kink : 149
+Edges: 737
+Path : 259000 ~> 619513
+
+Root : 259200
+Kink : 149
+Edges: 736
+Path : 259200 ~> 619513
+
+Root : 259300
+Kink : 147
+Edges: 737
+Path : 259300 ~> 619513
+
+Root : 259600
+Kink : 147
+Edges: 736
+Path : 259600 ~> 619513
+
+Root : 259700
+Kink : 147
+Edges: 736
+Path : 259700 ~> 619513
+
+Root : 260000
+Kink : 147
+Edges: 735
+Path : 260000 ~> 619513
+
+Root : 260100
+Kink : 147
+Edges: 735
+Path : 260100 ~> 619513
+
+Root : 260400
+Kink : 147
+Edges: 734
+Path : 260400 ~> 619513
+
+Root : 260500
+Kink : 147
+Edges: 734
+Path : 260500 ~> 619513
+
+Root : 260800
+Kink : 147
+Edges: 733
+Path : 260800 ~> 619513
+
+Root : 260900
+Kink : 147
+Edges: 733
+Path : 260900 ~> 619513
+
+Root : 261200
+Kink : 147
+Edges: 732
+Path : 261200 ~> 619513
+
+Root : 261300
+Kink : 145
+Edges: 728
+Path : 261300 ~> 619513
+
+Root : 261700
+Kink : 145
+Edges: 728
+Path : 261700 ~> 619513
+
+Root : 262000
+Kink : 145
+Edges: 727
+Path : 262000 ~> 619513
+
+Root : 262100
+Kink : 145
+Edges: 727
+Path : 262100 ~> 619513
+
+Root : 262400
+Kink : 145
+Edges: 726
+Path : 262400 ~> 619513
+
+Root : 262500
+Kink : 145
+Edges: 726
+Path : 262500 ~> 619513
+
+Root : 262800
+Kink : 145
+Edges: 725
+Path : 262800 ~> 619513
+
+Root : 262900
+Kink : 145
+Edges: 725
+Path : 262900 ~> 619513
+
+Root : 263200
+Kink : 145
+Edges: 724
+Path : 263200 ~> 619513
+
+Root : 263300
+Kink : 143
+Edges: 722
+Path : 263300 ~> 619513
+
+Root : 263500
+Kink : 145
+Edges: 724
+Path : 263500 ~> 619513
+
+Root : 263600
+Kink : 145
+Edges: 723
+Path : 263600 ~> 619513
+
+Root : 263700
+Kink : 143
+Edges: 722
+Path : 263700 ~> 619513
+
+Root : 264000
+Kink : 143
+Edges: 721
+Path : 264000 ~> 619513
+
+Root : 264100
+Kink : 143
+Edges: 721
+Path : 264100 ~> 619513
+
+Root : 264400
+Kink : 143
+Edges: 720
+Path : 264400 ~> 619513
+
+Root : 264500
+Kink : 143
+Edges: 720
+Path : 264500 ~> 619513
+
+Root : 264800
+Kink : 143
+Edges: 719
+Path : 264800 ~> 619513
+
+Root : 264900
+Kink : 143
+Edges: 719
+Path : 264900 ~> 619513
+
+Root : 265200
+Kink : 143
+Edges: 718
+Path : 265200 ~> 619513
+
+Root : 265300
+Kink : 141
+Edges: 714
+Path : 265300 ~> 619513
+
+Root : 265400
+Kink : 143
+Edges: 718
+Path : 265400 ~> 619513
+
+Root : 265600
+Kink : 143
+Edges: 717
+Path : 265600 ~> 619513
+
+Root : 265700
+Kink : 141
+Edges: 714
+Path : 265700 ~> 619513
+
+Root : 266000
+Kink : 141
+Edges: 713
+Path : 266000 ~> 619513
+
+Root : 266100
+Kink : 141
+Edges: 713
+Path : 266100 ~> 619513
+
+Root : 266400
+Kink : 141
+Edges: 712
+Path : 266400 ~> 619513
+
+Root : 266500
+Kink : 141
+Edges: 712
+Path : 266500 ~> 619513
+
+Root : 266700
+Kink : 141
+Edges: 711
+Path : 266700 ~> 619513
+
+Root : 266800
+Kink : 141
+Edges: 711
+Path : 266800 ~> 619513
+
+Root : 267100
+Kink : 141
+Edges: 710
+Path : 267100 ~> 619513
+
+Root : 267400
+Kink : 139
+Edges: 703
+Path : 267400 ~> 619513
+
+Root : 267600
+Kink : 141
+Edges: 709
+Path : 267600 ~> 619513
+
+Root : 267700
+Kink : 139
+Edges: 703
+Path : 267700 ~> 619513
+
+Root : 268000
+Kink : 139
+Edges: 702
+Path : 268000 ~> 619513
+
+Root : 268300
+Kink : 139
+Edges: 701
+Path : 268300 ~> 619513
+
+Root : 268600
+Kink : 139
+Edges: 700
+Path : 268600 ~> 619513
+
+Root : 268900
+Kink : 137
+Edges: 699
+Path : 268900 ~> 619513
+
+Root : 269000
+Kink : 139
+Edges: 699
+Path : 269000 ~> 619513
+
+Root : 269200
+Kink : 137
+Edges: 699
+Path : 269200 ~> 619513
+
+Root : 269500
+Kink : 137
+Edges: 698
+Path : 269500 ~> 619513
+
+Root : 269800
+Kink : 137
+Edges: 697
+Path : 269800 ~> 619513
+
+Root : 270100
+Kink : 137
+Edges: 696
+Path : 270100 ~> 619513
+
+Root : 270400
+Kink : 137
+Edges: 695
+Path : 270400 ~> 619513
+
+Root : 270700
+Kink : 135
+Edges: 695
+Path : 270700 ~> 619513
+
+Root : 271000
+Kink : 135
+Edges: 695
+Path : 271000 ~> 619513
+
+Root : 271300
+Kink : 135
+Edges: 694
+Path : 271300 ~> 619513
+
+Root : 271600
+Kink : 135
+Edges: 693
+Path : 271600 ~> 619513
+
+Root : 271900
+Kink : 135
+Edges: 692
+Path : 271900 ~> 619513
+
+Root : 272200
+Kink : 133
+Edges: 693
+Path : 272200 ~> 619513
+
+Root : 272400
+Kink : 135
+Edges: 691
+Path : 272400 ~> 619513
+
+Root : 272500
+Kink : 133
+Edges: 693
+Path : 272500 ~> 619513
+
+Root : 272800
+Kink : 133
+Edges: 692
+Path : 272800 ~> 619513
+
+Root : 273100
+Kink : 133
+Edges: 691
+Path : 273100 ~> 619513
+
+Root : 273400
+Kink : 133
+Edges: 690
+Path : 273400 ~> 619513
+
+Root : 273700
+Kink : 131
+Edges: 691
+Path : 273700 ~> 619513
+
+Root : 273800
+Kink : 133
+Edges: 689
+Path : 273800 ~> 619513
+
+Root : 274000
+Kink : 131
+Edges: 691
+Path : 274000 ~> 619513
+
+Root : 274300
+Kink : 131
+Edges: 690
+Path : 274300 ~> 619513
+
+Root : 274600
+Kink : 131
+Edges: 689
+Path : 274600 ~> 619513
+
+Root : 274900
+Kink : 131
+Edges: 688
+Path : 274900 ~> 619513
+
+Root : 275200
+Kink : 131
+Edges: 687
+Path : 275200 ~> 619513
+
+Root : 275500
+Kink : 129
+Edges: 689
+Path : 275500 ~> 619513
+
+Root : 275800
+Kink : 129
+Edges: 689
+Path : 275800 ~> 619513
+
+Root : 276100
+Kink : 129
+Edges: 688
+Path : 276100 ~> 619513
+
+Root : 276400
+Kink : 129
+Edges: 687
+Path : 276400 ~> 619513
+
+Root : 276700
+Kink : 129
+Edges: 686
+Path : 276700 ~> 619513
+
+Root : 277000
+Kink : 127
+Edges: 682
+Path : 277000 ~> 619513
+
+Root : 277200
+Kink : 129
+Edges: 685
+Path : 277200 ~> 619513
+
+Root : 277300
+Kink : 127
+Edges: 682
+Path : 277300 ~> 619513
+
+Root : 277600
+Kink : 127
+Edges: 681
+Path : 277600 ~> 619513
+
+Root : 277900
+Kink : 127
+Edges: 680
+Path : 277900 ~> 619513
+
+Root : 278200
+Kink : 127
+Edges: 679
+Path : 278200 ~> 619513
+
+Root : 278500
+Kink : 125
+Edges: 680
+Path : 278500 ~> 619513
+
+Root : 278600
+Kink : 127
+Edges: 678
+Path : 278600 ~> 619513
+
+Root : 278800
+Kink : 125
+Edges: 680
+Path : 278800 ~> 619513
+
+Root : 279100
+Kink : 125
+Edges: 679
+Path : 279100 ~> 619513
+
+Root : 279400
+Kink : 125
+Edges: 678
+Path : 279400 ~> 619513
+
+Root : 279700
+Kink : 125
+Edges: 677
+Path : 279700 ~> 619513
+
+Root : 280000
+Kink : 125
+Edges: 676
+Path : 280000 ~> 619513
+
+Root : 280300
+Kink : 123
+Edges: 677
+Path : 280300 ~> 619513
+
+Root : 280600
+Kink : 123
+Edges: 677
+Path : 280600 ~> 619513
+
+Root : 280900
+Kink : 123
+Edges: 676
+Path : 280900 ~> 619513
+
+Root : 281200
+Kink : 123
+Edges: 675
+Path : 281200 ~> 619513
+
+Root : 281500
+Kink : 123
+Edges: 674
+Path : 281500 ~> 619513
+
+Root : 281800
+Kink : 121
+Edges: 674
+Path : 281800 ~> 619513
+
+Root : 282000
+Kink : 123
+Edges: 673
+Path : 282000 ~> 619513
+
+Root : 282100
+Kink : 121
+Edges: 674
+Path : 282100 ~> 619513
+
+Root : 282400
+Kink : 121
+Edges: 673
+Path : 282400 ~> 619513
+
+Root : 282700
+Kink : 121
+Edges: 672
+Path : 282700 ~> 619513
+
+Root : 283000
+Kink : 121
+Edges: 671
+Path : 283000 ~> 619513
+
+Root : 283300
+Kink : 119
+Edges: 672
+Path : 283300 ~> 619513
+
+Root : 283400
+Kink : 121
+Edges: 670
+Path : 283400 ~> 619513
+
+Root : 283600
+Kink : 119
+Edges: 672
+Path : 283600 ~> 619513
+
+Root : 283900
+Kink : 119
+Edges: 671
+Path : 283900 ~> 619513
+
+Root : 284200
+Kink : 119
+Edges: 670
+Path : 284200 ~> 619513
+
+Root : 284500
+Kink : 119
+Edges: 669
+Path : 284500 ~> 619513
+
+Root : 284800
+Kink : 119
+Edges: 668
+Path : 284800 ~> 619513
+
+Root : 285100
+Kink : 117
+Edges: 670
+Path : 285100 ~> 619513
+
+Root : 285400
+Kink : 117
+Edges: 670
+Path : 285400 ~> 619513
+
+Root : 285700
+Kink : 117
+Edges: 669
+Path : 285700 ~> 619513
+
+Root : 286000
+Kink : 117
+Edges: 668
+Path : 286000 ~> 619513
+
+Root : 286300
+Kink : 117
+Edges: 667
+Path : 286300 ~> 619513
+
+Root : 286600
+Kink : 115
+Edges: 668
+Path : 286600 ~> 619513
+
+Root : 286800
+Kink : 117
+Edges: 666
+Path : 286800 ~> 619513
+
+Root : 286900
+Kink : 115
+Edges: 668
+Path : 286900 ~> 619513
+
+Root : 287200
+Kink : 115
+Edges: 667
+Path : 287200 ~> 619513
+
+Root : 287500
+Kink : 115
+Edges: 666
+Path : 287500 ~> 619513
+
+Root : 287800
+Kink : 115
+Edges: 665
+Path : 287800 ~> 619513
+
+Root : 288100
+Kink : 113
+Edges: 666
+Path : 288100 ~> 619513
+
+Root : 288200
+Kink : 115
+Edges: 664
+Path : 288200 ~> 619513
+
+Root : 288400
+Kink : 113
+Edges: 666
+Path : 288400 ~> 619513
+
+Root : 288700
+Kink : 113
+Edges: 665
+Path : 288700 ~> 619513
+
+Root : 289000
+Kink : 113
+Edges: 664
+Path : 289000 ~> 619513
+
+Root : 289300
+Kink : 113
+Edges: 663
+Path : 289300 ~> 619513
+
+Root : 289600
+Kink : 113
+Edges: 662
+Path : 289600 ~> 619513
+
+Root : 289900
+Kink : 111
+Edges: 661
+Path : 289900 ~> 619513
+
+Root : 290200
+Kink : 111
+Edges: 661
+Path : 290200 ~> 619513
+
+Root : 290500
+Kink : 111
+Edges: 660
+Path : 290500 ~> 619513
+
+Root : 290800
+Kink : 111
+Edges: 659
+Path : 290800 ~> 619513
+
+Root : 291100
+Kink : 111
+Edges: 658
+Path : 291100 ~> 619513
+
+Root : 291400
+Kink : 109
+Edges: 658
+Path : 291400 ~> 619513
+
+Root : 291600
+Kink : 111
+Edges: 657
+Path : 291600 ~> 619513
+
+Root : 291700
+Kink : 109
+Edges: 658
+Path : 291700 ~> 619513
+
+Root : 292000
+Kink : 109
+Edges: 657
+Path : 292000 ~> 619513
+
+Root : 292300
+Kink : 109
+Edges: 656
+Path : 292300 ~> 619513
+
+Root : 292600
+Kink : 109
+Edges: 655
+Path : 292600 ~> 619513
+
+Root : 292900
+Kink : 107
+Edges: 656
+Path : 292900 ~> 619513
+
+Root : 293000
+Kink : 109
+Edges: 654
+Path : 293000 ~> 619513
+
+Root : 293200
+Kink : 107
+Edges: 656
+Path : 293200 ~> 619513
+
+Root : 293500
+Kink : 107
+Edges: 655
+Path : 293500 ~> 619513
+
+Root : 293800
+Kink : 107
+Edges: 654
+Path : 293800 ~> 619513
+
+Root : 294100
+Kink : 107
+Edges: 653
+Path : 294100 ~> 619513
+
+Root : 294400
+Kink : 107
+Edges: 652
+Path : 294400 ~> 619513
+
+Root : 294700
+Kink : 105
+Edges: 654
+Path : 294700 ~> 619513
+
+Root : 295000
+Kink : 105
+Edges: 654
+Path : 295000 ~> 619513
+
+Root : 295300
+Kink : 105
+Edges: 653
+Path : 295300 ~> 619513
+
+Root : 295600
+Kink : 105
+Edges: 652
+Path : 295600 ~> 619513
+
+Root : 295900
+Kink : 105
+Edges: 651
+Path : 295900 ~> 619513
+
+Root : 296200
+Kink : 103
+Edges: 652
+Path : 296200 ~> 619513
+
+Root : 296400
+Kink : 105
+Edges: 650
+Path : 296400 ~> 619513
+
+Root : 296500
+Kink : 103
+Edges: 652
+Path : 296500 ~> 619513
+
+Root : 296800
+Kink : 103
+Edges: 651
+Path : 296800 ~> 619513
+
+Root : 297100
+Kink : 103
+Edges: 650
+Path : 297100 ~> 619513
+
+Root : 297400
+Kink : 103
+Edges: 649
+Path : 297400 ~> 619513
+
+Root : 297700
+Kink : 101
+Edges: 645
+Path : 297700 ~> 619513
+
+Root : 297800
+Kink : 103
+Edges: 648
+Path : 297800 ~> 619513
+
+Root : 298000
+Kink : 101
+Edges: 645
+Path : 298000 ~> 619513
+
+Root : 298300
+Kink : 101
+Edges: 644
+Path : 298300 ~> 619513
+
+Root : 298600
+Kink : 101
+Edges: 644
+Path : 298600 ~> 619513
+
+Root : 298900
+Kink : 101
+Edges: 644
+Path : 298900 ~> 619513
+
+Root : 299200
+Kink : 101
+Edges: 642
+Path : 299200 ~> 619513
+
+Root : 299500
+Kink : 99
+Edges: 638
+Path : 299500 ~> 619513
+
+Root : 299800
+Kink : 99
+Edges: 638
+Path : 299800 ~> 619513
+
+Root : 300100
+Kink : 99
+Edges: 640
+Path : 300100 ~> 619513
+
+Root : 300400
+Kink : 99
+Edges: 640
+Path : 300400 ~> 619513
+
+Root : 300700
+Kink : 99
+Edges: 639
+Path : 300700 ~> 619513
+
+Root : 301000
+Kink : 97
+Edges: 634
+Path : 301000 ~> 619513
+
+Root : 301200
+Kink : 99
+Edges: 638
+Path : 301200 ~> 619513
+
+Root : 301300
+Kink : 97
+Edges: 634
+Path : 301300 ~> 619513
+
+Root : 301600
+Kink : 97
+Edges: 633
+Path : 301600 ~> 619513
+
+Root : 301900
+Kink : 97
+Edges: 632
+Path : 301900 ~> 619513
+
+Root : 302200
+Kink : 97
+Edges: 631
+Path : 302200 ~> 619513
+
+Root : 302500
+Kink : 95
+Edges: 623
+Path : 302500 ~> 619513
+
+Root : 302600
+Kink : 97
+Edges: 630
+Path : 302600 ~> 619513
+
+Root : 302800
+Kink : 95
+Edges: 623
+Path : 302800 ~> 619513
+
+Root : 303100
+Kink : 95
+Edges: 624
+Path : 303100 ~> 619513
+
+Root : 303400
+Kink : 95
+Edges: 624
+Path : 303400 ~> 619513
+
+Root : 303700
+Kink : 95
+Edges: 623
+Path : 303700 ~> 619513
+
+Root : 304000
+Kink : 95
+Edges: 621
+Path : 304000 ~> 619513
+
+Root : 304300
+Kink : 93
+Edges: 620
+Path : 304300 ~> 619513
+
+Root : 304600
+Kink : 93
+Edges: 621
+Path : 304600 ~> 619513
+
+Root : 304900
+Kink : 93
+Edges: 621
+Path : 304900 ~> 619513
+
+Root : 305200
+Kink : 93
+Edges: 621
+Path : 305200 ~> 619513
+
+Root : 305500
+Kink : 93
+Edges: 621
+Path : 305500 ~> 619513
+
+Root : 305800
+Kink : 91
+Edges: 620
+Path : 305800 ~> 619513
+
+Root : 306000
+Kink : 93
+Edges: 620
+Path : 306000 ~> 619513
+
+Root : 306100
+Kink : 91
+Edges: 621
+Path : 306100 ~> 619513
+
+Root : 306400
+Kink : 91
+Edges: 621
+Path : 306400 ~> 619513
+
+Root : 306700
+Kink : 91
+Edges: 619
+Path : 306700 ~> 619513
+
+Root : 307000
+Kink : 91
+Edges: 618
+Path : 307000 ~> 619513
+
+Root : 307300
+Kink : 90
+Edges: 444
+Path : 307300 ~> 666360
+
+Root : 307400
+Kink : 91
+Edges: 617
+Path : 307400 ~> 619513
+
+Root : 307600
+Kink : 90
+Edges: 444
+Path : 307600 ~> 666360
+
+Root : 307900
+Kink : 90
+Edges: 443
+Path : 307900 ~> 666360
+
+Root : 308200
+Kink : 90
+Edges: 442
+Path : 308200 ~> 666360
+
+Root : 308500
+Kink : 90
+Edges: 441
+Path : 308500 ~> 666360
+
+Root : 308800
+Kink : 90
+Edges: 440
+Path : 308800 ~> 666360
+
+Root : 309100
+Kink : 92
+Edges: 449
+Path : 309100 ~> 666360
+
+Root : 309400
+Kink : 92
+Edges: 449
+Path : 309400 ~> 666360
+
+Root : 309700
+Kink : 92
+Edges: 448
+Path : 309700 ~> 666360
+
+Root : 310000
+Kink : 92
+Edges: 447
+Path : 310000 ~> 666360
+
+Root : 310300
+Kink : 92
+Edges: 446
+Path : 310300 ~> 666360
+
+Root : 310600
+Kink : 94
+Edges: 453
+Path : 310600 ~> 666360
+
+Root : 310800
+Kink : 92
+Edges: 445
+Path : 310800 ~> 666360
+
+Root : 310900
+Kink : 94
+Edges: 453
+Path : 310900 ~> 666360
+
+Root : 311200
+Kink : 94
+Edges: 454
+Path : 311200 ~> 666360
+
+Root : 311500
+Kink : 94
+Edges: 454
+Path : 311500 ~> 666360
+
+Root : 311800
+Kink : 94
+Edges: 453
+Path : 311800 ~> 666360
+
+Root : 312100
+Kink : 96
+Edges: 458
+Path : 312100 ~> 666360
+
+Root : 312200
+Kink : 94
+Edges: 451
+Path : 312200 ~> 666360
+
+Root : 312400
+Kink : 96
+Edges: 458
+Path : 312400 ~> 666360
+
+Root : 312700
+Kink : 96
+Edges: 457
+Path : 312700 ~> 666360
+
+Root : 313000
+Kink : 96
+Edges: 456
+Path : 313000 ~> 666360
+
+Root : 313300
+Kink : 96
+Edges: 456
+Path : 313300 ~> 666360
+
+Root : 313600
+Kink : 96
+Edges: 456
+Path : 313600 ~> 666360
+
+Root : 313900
+Kink : 98
+Edges: 468
+Path : 313900 ~> 666360
+
+Root : 314200
+Kink : 98
+Edges: 468
+Path : 314200 ~> 666360
+
+Root : 314500
+Kink : 98
+Edges: 468
+Path : 314500 ~> 666360
+
+Root : 314800
+Kink : 98
+Edges: 468
+Path : 314800 ~> 666360
+
+Root : 315100
+Kink : 98
+Edges: 466
+Path : 315100 ~> 666360
+
+Root : 315400
+Kink : 100
+Edges: 475
+Path : 315400 ~> 666360
+
+Root : 315600
+Kink : 98
+Edges: 465
+Path : 315600 ~> 666360
+
+Root : 315700
+Kink : 100
+Edges: 475
+Path : 315700 ~> 666360
+
+Root : 316000
+Kink : 100
+Edges: 474
+Path : 316000 ~> 666360
+
+Root : 316300
+Kink : 100
+Edges: 473
+Path : 316300 ~> 666360
+
+Root : 316600
+Kink : 100
+Edges: 472
+Path : 316600 ~> 666360
+
+Root : 316900
+Kink : 102
+Edges: 506
+Path : 316900 ~> 666360
+
+Root : 317000
+Kink : 100
+Edges: 471
+Path : 317000 ~> 666360
+
+Root : 317200
+Kink : 102
+Edges: 506
+Path : 317200 ~> 666360
+
+Root : 317500
+Kink : 102
+Edges: 505
+Path : 317500 ~> 666360
+
+Root : 317800
+Kink : 102
+Edges: 504
+Path : 317800 ~> 666360
+
+Root : 318100
+Kink : 102
+Edges: 504
+Path : 318100 ~> 666360
+
+Root : 318400
+Kink : 102
+Edges: 504
+Path : 318400 ~> 666360
+
+Root : 318700
+Kink : 104
+Edges: 521
+Path : 318700 ~> 666360
+
+Root : 319000
+Kink : 104
+Edges: 521
+Path : 319000 ~> 666360
+
+Root : 319300
+Kink : 104
+Edges: 520
+Path : 319300 ~> 666360
+
+Root : 319600
+Kink : 104
+Edges: 519
+Path : 319600 ~> 666360
+
+Root : 319900
+Kink : 104
+Edges: 518
+Path : 319900 ~> 666360
+
+Root : 320200
+Kink : 106
+Edges: 568
+Path : 320200 ~> 666360
+
+Root : 320400
+Kink : 104
+Edges: 517
+Path : 320400 ~> 666360
+
+Root : 320500
+Kink : 106
+Edges: 568
+Path : 320500 ~> 666360
+
+Root : 320800
+Kink : 106
+Edges: 567
+Path : 320800 ~> 666360
+
+Root : 321100
+Kink : 106
+Edges: 566
+Path : 321100 ~> 666360
+
+Root : 321400
+Kink : 106
+Edges: 565
+Path : 321400 ~> 666360
+
+Root : 321700
+Kink : 108
+Edges: 612
+Path : 321700 ~> 666360
+
+Root : 321800
+Kink : 106
+Edges: 564
+Path : 321800 ~> 666360
+
+Root : 322000
+Kink : 108
+Edges: 612
+Path : 322000 ~> 666360
+
+Root : 322300
+Kink : 108
+Edges: 611
+Path : 322300 ~> 666360
+
+Root : 322600
+Kink : 108
+Edges: 610
+Path : 322600 ~> 666360
+
+Root : 322900
+Kink : 108
+Edges: 609
+Path : 322900 ~> 666360
+
+Root : 323200
+Kink : 108
+Edges: 608
+Path : 323200 ~> 666360
+
+Root : 323500
+Kink : 110
+Edges: 662
+Path : 323500 ~> 666360
+
+Root : 323800
+Kink : 110
+Edges: 662
+Path : 323800 ~> 666360
+
+Root : 324100
+Kink : 110
+Edges: 661
+Path : 324100 ~> 666360
+
+Root : 324400
+Kink : 110
+Edges: 660
+Path : 324400 ~> 666360
+
+Root : 324700
+Kink : 110
+Edges: 659
+Path : 324700 ~> 666360
+
+Root : 325000
+Kink : 112
+Edges: 713
+Path : 325000 ~> 666360
+
+Root : 325200
+Kink : 110
+Edges: 658
+Path : 325200 ~> 666360
+
+Root : 325300
+Kink : 112
+Edges: 713
+Path : 325300 ~> 666360
+
+Root : 325600
+Kink : 112
+Edges: 712
+Path : 325600 ~> 666360
+
+Root : 325900
+Kink : 112
+Edges: 713
+Path : 325900 ~> 666360
+
+Root : 326200
+Kink : 112
+Edges: 713
+Path : 326200 ~> 666360
+
+Root : 326500
+Kink : 112
+Edges: 712
+Path : 326500 ~> 666360
+
+Root : 326600
+Kink : 112
+Edges: 712
+Path : 326600 ~> 666360
+
+Root : 326800
+Kink : 112
+Edges: 711
+Path : 326800 ~> 666360
+
+Root : 326900
+Kink : 114
+Edges: 757
+Path : 326900 ~> 666360
+
+Root : 327200
+Kink : 114
+Edges: 757
+Path : 327200 ~> 666360
+
+Root : 327500
+Kink : 114
+Edges: 756
+Path : 327500 ~> 666360
+
+Root : 327800
+Kink : 114
+Edges: 755
+Path : 327800 ~> 666360
+
+Root : 328100
+Kink : 114
+Edges: 754
+Path : 328100 ~> 666360
+
+Root : 328400
+Kink : 116
+Edges: 773
+Path : 328400 ~> 666360
+
+Root : 328600
+Kink : 114
+Edges: 753
+Path : 328600 ~> 666360
+
+Root : 328700
+Kink : 116
+Edges: 773
+Path : 328700 ~> 666360
+
+Root : 329000
+Kink : 116
+Edges: 772
+Path : 329000 ~> 666360
+
+Root : 329300
+Kink : 116
+Edges: 771
+Path : 329300 ~> 666360
+
+Root : 329600
+Kink : 116
+Edges: 770
+Path : 329600 ~> 666360
+
+Root : 329900
+Kink : 118
+Edges: 781
+Path : 329900 ~> 666360
+
+Root : 330000
+Kink : 116
+Edges: 769
+Path : 330000 ~> 666360
+
+Root : 330200
+Kink : 118
+Edges: 781
+Path : 330200 ~> 666360
+
+Root : 330500
+Kink : 118
+Edges: 780
+Path : 330500 ~> 666360
+
+Root : 330800
+Kink : 118
+Edges: 779
+Path : 330800 ~> 666360
+
+Root : 331100
+Kink : 118
+Edges: 778
+Path : 331100 ~> 666360
+
+Root : 331400
+Kink : 118
+Edges: 777
+Path : 331400 ~> 666360
+
+Root : 331700
+Kink : 120
+Edges: 792
+Path : 331700 ~> 666360
+
+Root : 332000
+Kink : 120
+Edges: 792
+Path : 332000 ~> 666360
+
+Root : 332300
+Kink : 120
+Edges: 791
+Path : 332300 ~> 666360
+
+Root : 332600
+Kink : 120
+Edges: 790
+Path : 332600 ~> 666360
+
+Root : 332900
+Kink : 120
+Edges: 789
+Path : 332900 ~> 666360
+
+Root : 333200
+Kink : 122
+Edges: 797
+Path : 333200 ~> 666360
+
+Root : 333400
+Kink : 120
+Edges: 788
+Path : 333400 ~> 666360
+
+Root : 333500
+Kink : 122
+Edges: 797
+Path : 333500 ~> 666360
+
+Root : 333800
+Kink : 122
+Edges: 796
+Path : 333800 ~> 666360
+
+Root : 334100
+Kink : 122
+Edges: 795
+Path : 334100 ~> 666360
+
+Root : 334400
+Kink : 122
+Edges: 794
+Path : 334400 ~> 666360
+
+Root : 334700
+Kink : 124
+Edges: 802
+Path : 334700 ~> 666360
+
+Root : 334800
+Kink : 122
+Edges: 793
+Path : 334800 ~> 666360
+
+Root : 335000
+Kink : 124
+Edges: 802
+Path : 335000 ~> 666360
+
+Root : 335300
+Kink : 124
+Edges: 801
+Path : 335300 ~> 666360
+
+Root : 335600
+Kink : 124
+Edges: 800
+Path : 335600 ~> 666360
+
+Root : 335900
+Kink : 124
+Edges: 799
+Path : 335900 ~> 666360
+
+Root : 336200
+Kink : 124
+Edges: 798
+Path : 336200 ~> 666360
+
+Root : 336500
+Kink : 126
+Edges: 815
+Path : 336500 ~> 666360
+
+Root : 336800
+Kink : 126
+Edges: 815
+Path : 336800 ~> 666360
+
+Root : 337100
+Kink : 126
+Edges: 814
+Path : 337100 ~> 666360
+
+Root : 337400
+Kink : 126
+Edges: 813
+Path : 337400 ~> 666360
+
+Root : 337700
+Kink : 126
+Edges: 812
+Path : 337700 ~> 666360
+
+Root : 338000
+Kink : 128
+Edges: 819
+Path : 338000 ~> 666360
+
+Root : 338200
+Kink : 126
+Edges: 811
+Path : 338200 ~> 666360
+
+Root : 338300
+Kink : 128
+Edges: 819
+Path : 338300 ~> 666360
+
+Root : 338600
+Kink : 128
+Edges: 818
+Path : 338600 ~> 666360
+
+Root : 338900
+Kink : 128
+Edges: 817
+Path : 338900 ~> 666360
+
+Root : 339200
+Kink : 128
+Edges: 816
+Path : 339200 ~> 666360
+
+Root : 339500
+Kink : 130
+Edges: 823
+Path : 339500 ~> 666360
+
+Root : 339600
+Kink : 128
+Edges: 815
+Path : 339600 ~> 666360
+
+Root : 339800
+Kink : 130
+Edges: 823
+Path : 339800 ~> 666360
+
+Root : 340100
+Kink : 130
+Edges: 822
+Path : 340100 ~> 666360
+
+Root : 340400
+Kink : 130
+Edges: 821
+Path : 340400 ~> 666360
+
+Root : 340700
+Kink : 130
+Edges: 820
+Path : 340700 ~> 666360
+
+Root : 341000
+Kink : 130
+Edges: 819
+Path : 341000 ~> 666360
+
+Root : 341300
+Kink : 132
+Edges: 830
+Path : 341300 ~> 666360
+
+Root : 341600
+Kink : 132
+Edges: 830
+Path : 341600 ~> 666360
+
+Root : 341900
+Kink : 132
+Edges: 829
+Path : 341900 ~> 666360
+
+Root : 342200
+Kink : 132
+Edges: 828
+Path : 342200 ~> 666360
+
+Root : 342500
+Kink : 132
+Edges: 827
+Path : 342500 ~> 666360
+
+Root : 342800
+Kink : 134
+Edges: 832
+Path : 342800 ~> 666360
+
+Root : 343000
+Kink : 132
+Edges: 826
+Path : 343000 ~> 666360
+
+Root : 343100
+Kink : 134
+Edges: 832
+Path : 343100 ~> 666360
+
+Root : 343400
+Kink : 134
+Edges: 831
+Path : 343400 ~> 666360
+
+Root : 343700
+Kink : 134
+Edges: 830
+Path : 343700 ~> 666360
+
+Root : 344000
+Kink : 134
+Edges: 829
+Path : 344000 ~> 666360
+
+Root : 344300
+Kink : 136
+Edges: 838
+Path : 344300 ~> 666360
+
+Root : 344400
+Kink : 134
+Edges: 828
+Path : 344400 ~> 666360
+
+Root : 344600
+Kink : 136
+Edges: 838
+Path : 344600 ~> 666360
+
+Root : 344900
+Kink : 136
+Edges: 837
+Path : 344900 ~> 666360
+
+Root : 345200
+Kink : 136
+Edges: 836
+Path : 345200 ~> 666360
+
+Root : 345500
+Kink : 136
+Edges: 835
+Path : 345500 ~> 666360
+
+Root : 345800
+Kink : 136
+Edges: 834
+Path : 345800 ~> 666360
+
+Root : 346100
+Kink : 138
+Edges: 850
+Path : 346100 ~> 666360
+
+Root : 346400
+Kink : 138
+Edges: 850
+Path : 346400 ~> 666360
+
+Root : 346700
+Kink : 138
+Edges: 849
+Path : 346700 ~> 666360
+
+Root : 347000
+Kink : 138
+Edges: 848
+Path : 347000 ~> 666360
+
+Root : 347300
+Kink : 138
+Edges: 847
+Path : 347300 ~> 666360
+
+Root : 347600
+Kink : 140
+Edges: 876
+Path : 347600 ~> 666360
+
+Root : 347800
+Kink : 138
+Edges: 846
+Path : 347800 ~> 666360
+
+Root : 347900
+Kink : 140
+Edges: 876
+Path : 347900 ~> 666360
+
+Root : 348200
+Kink : 140
+Edges: 875
+Path : 348200 ~> 666360
+
+Root : 348500
+Kink : 140
+Edges: 874
+Path : 348500 ~> 666360
+
+Root : 348800
+Kink : 140
+Edges: 873
+Path : 348800 ~> 666360
+
+Root : 349100
+Kink : 142
+Edges: 892
+Path : 349100 ~> 666360
+
+Root : 349200
+Kink : 140
+Edges: 872
+Path : 349200 ~> 666360
+
+Root : 349400
+Kink : 142
+Edges: 892
+Path : 349400 ~> 666360
+
+Root : 349700
+Kink : 142
+Edges: 891
+Path : 349700 ~> 666360
+
+Root : 350000
+Kink : 142
+Edges: 890
+Path : 350000 ~> 666360
+
+Root : 350300
+Kink : 142
+Edges: 889
+Path : 350300 ~> 666360
+
+Root : 350600
+Kink : 142
+Edges: 888
+Path : 350600 ~> 666360
+
+Root : 350900
+Kink : 144
+Edges: 900
+Path : 350900 ~> 666360
+
+Root : 351200
+Kink : 144
+Edges: 900
+Path : 351200 ~> 666360
+
+Root : 351500
+Kink : 144
+Edges: 899
+Path : 351500 ~> 666360
+
+Root : 351800
+Kink : 144
+Edges: 898
+Path : 351800 ~> 666360
+
+Root : 352100
+Kink : 144
+Edges: 897
+Path : 352100 ~> 666360
+
+Root : 352400
+Kink : 146
+Edges: 904
+Path : 352400 ~> 666360
+
+Root : 352600
+Kink : 144
+Edges: 896
+Path : 352600 ~> 666360
+
+Root : 352700
+Kink : 146
+Edges: 904
+Path : 352700 ~> 666360
+
+Root : 353000
+Kink : 146
+Edges: 903
+Path : 353000 ~> 666360
+
+Root : 353300
+Kink : 146
+Edges: 902
+Path : 353300 ~> 666360
+
+Root : 353600
+Kink : 146
+Edges: 901
+Path : 353600 ~> 666360
+
+Root : 353900
+Kink : 148
+Edges: 906
+Path : 353900 ~> 666360
+
+Root : 354000
+Kink : 146
+Edges: 900
+Path : 354000 ~> 666360
+
+Root : 354200
+Kink : 148
+Edges: 906
+Path : 354200 ~> 666360
+
+Root : 354500
+Kink : 148
+Edges: 905
+Path : 354500 ~> 666360
+
+Root : 354800
+Kink : 148
+Edges: 904
+Path : 354800 ~> 666360
+
+Root : 355100
+Kink : 148
+Edges: 903
+Path : 355100 ~> 666360
+
+Root : 355400
+Kink : 148
+Edges: 902
+Path : 355400 ~> 666360
+
+Root : 355700
+Kink : 150
+Edges: 918
+Path : 355700 ~> 666360
+
+Root : 356000
+Kink : 150
+Edges: 918
+Path : 356000 ~> 666360
+
+Root : 356300
+Kink : 150
+Edges: 917
+Path : 356300 ~> 666360
+
+Root : 356600
+Kink : 150
+Edges: 916
+Path : 356600 ~> 666360
+
+Root : 356800
+Kink : 150
+Edges: 916
+Path : 356800 ~> 666360
+
+Root : 357000
+Kink : 152
+Edges: 920
+Path : 357000 ~> 666360
+
+Root : 357100
+Kink : 150
+Edges: 918
+Path : 357100 ~> 666360
+
+Root : 357200
+Kink : 152
+Edges: 930
+Path : 357200 ~> 666360
+
+Root : 357400
+Kink : 152
+Edges: 926
+Path : 357400 ~> 666360
+
+Root : 357600
+Kink : 152
+Edges: 925
+Path : 357600 ~> 666360
+
+Root : 357800
+Kink : 152
+Edges: 924
+Path : 357800 ~> 666360
+
+Root : 358000
+Kink : 152
+Edges: 922
+Path : 358000 ~> 666360
+
+Root : 358200
+Kink : 154
+Edges: 925
+Path : 358200 ~> 666360
+
+Root : 358400
+Kink : 154
+Edges: 929
+Path : 358400 ~> 666360
+
+Root : 358600
+Kink : 154
+Edges: 928
+Path : 358600 ~> 666360
+
+Root : 358800
+Kink : 154
+Edges: 926
+Path : 358800 ~> 666360
+
+Root : 359000
+Kink : 154
+Edges: 930
+Path : 359000 ~> 666360
+
+Root : 359200
+Kink : 156
+Edges: 925
+Path : 359200 ~> 666360
+
+Root : 359400
+Kink : 156
+Edges: 930
+Path : 359400 ~> 666360
+
+Root : 359600
+Kink : 156
+Edges: 927
+Path : 359600 ~> 666360
+
+Root : 359800
+Kink : 156
+Edges: 927
+Path : 359800 ~> 666360
+
+Root : 360000
+Kink : 156
+Edges: 929
+Path : 360000 ~> 666360
+
+Root : 360200
+Kink : 158
+Edges: 925
+Path : 360200 ~> 666360
+
+Root : 360300
+Kink : 156
+Edges: 927
+Path : 360300 ~> 666360
+
+Root : 360400
+Kink : 158
+Edges: 932
+Path : 360400 ~> 666360
+
+Root : 360600
+Kink : 158
+Edges: 931
+Path : 360600 ~> 666360
+
+Root : 360800
+Kink : 158
+Edges: 934
+Path : 360800 ~> 666360
+
+Root : 361000
+Kink : 158
+Edges: 931
+Path : 361000 ~> 666360
+
+Root : 361200
+Kink : 158
+Edges: 930
+Path : 361200 ~> 666360
+
+Root : 361400
+Kink : 160
+Edges: 931
+Path : 361400 ~> 666360
+
+Root : 361600
+Kink : 160
+Edges: 933
+Path : 361600 ~> 666360
+
+Root : 361800
+Kink : 160
+Edges: 932
+Path : 361800 ~> 666360
+
+Root : 362000
+Kink : 160
+Edges: 934
+Path : 362000 ~> 666360
+
+Root : 362200
+Kink : 160
+Edges: 936
+Path : 362200 ~> 666360
+
+Root : 362400
+Kink : 162
+Edges: 932
+Path : 362400 ~> 666360
+
+Root : 362600
+Kink : 162
+Edges: 935
+Path : 362600 ~> 666360
+
+Root : 362800
+Kink : 162
+Edges: 933
+Path : 362800 ~> 666360
+
+Root : 363000
+Kink : 162
+Edges: 936
+Path : 363000 ~> 666360
+
+Root : 363200
+Kink : 162
+Edges: 936
+Path : 363200 ~> 666360
+
+Root : 363400
+Kink : 164
+Edges: 938
+Path : 363400 ~> 666360
+
+Root : 363500
+Kink : 162
+Edges: 930
+Path : 363500 ~> 666360
+
+Root : 363600
+Kink : 164
+Edges: 940
+Path : 363600 ~> 666360
+
+Root : 363800
+Kink : 164
+Edges: 942
+Path : 363800 ~> 666360
+
+Root : 364000
+Kink : 164
+Edges: 945
+Path : 364000 ~> 666360
+
+Root : 364200
+Kink : 164
+Edges: 945
+Path : 364200 ~> 666360
+
+Root : 364400
+Kink : 164
+Edges: 946
+Path : 364400 ~> 666360
+
+Root : 364600
+Kink : 166
+Edges: 947
+Path : 364600 ~> 666360
+
+Root : 364800
+Kink : 166
+Edges: 946
+Path : 364800 ~> 666360
+
+Root : 365000
+Kink : 166
+Edges: 945
+Path : 365000 ~> 666360
+
+Root : 365200
+Kink : 166
+Edges: 950
+Path : 365200 ~> 666360
+
+Root : 365400
+Kink : 166
+Edges: 950
+Path : 365400 ~> 666360
+
+Root : 365600
+Kink : 168
+Edges: 948
+Path : 365600 ~> 666360
+
+Root : 365800
+Kink : 168
+Edges: 952
+Path : 365800 ~> 666360
+
+Root : 366000
+Kink : 168
+Edges: 954
+Path : 366000 ~> 666360
+
+Root : 366200
+Kink : 168
+Edges: 954
+Path : 366200 ~> 666360
+
+Root : 366400
+Kink : 168
+Edges: 955
+Path : 366400 ~> 666360
+
+Root : 366600
+Kink : 170
+Edges: 951
+Path : 366600 ~> 666360
+
+Root : 366700
+Kink : 168
+Edges: 953
+Path : 366700 ~> 666360
+
+Root : 366800
+Kink : 170
+Edges: 958
+Path : 366800 ~> 666360
+
+Root : 367000
+Kink : 170
+Edges: 961
+Path : 367000 ~> 666360
+
+Root : 367200
+Kink : 170
+Edges: 961
+Path : 367200 ~> 666360
+
+Root : 367400
+Kink : 170
+Edges: 957
+Path : 367400 ~> 666360
+
+Root : 367600
+Kink : 170
+Edges: 958
+Path : 367600 ~> 666360
+
+Root : 367800
+Kink : 172
+Edges: 982
+Path : 367800 ~> 666360
+
+Root : 368000
+Kink : 172
+Edges: 985
+Path : 368000 ~> 666360
+
+Root : 368200
+Kink : 172
+Edges: 985
+Path : 368200 ~> 666360
+
+Root : 368400
+Kink : 172
+Edges: 990
+Path : 368400 ~> 666360
+
+Root : 368600
+Kink : 172
+Edges: 988
+Path : 368600 ~> 666360
+
+Root : 368800
+Kink : 174
+Edges: 993
+Path : 368800 ~> 666360
+
+Root : 369000
+Kink : 174
+Edges: 1001
+Path : 369000 ~> 666360
+
+Root : 369200
+Kink : 174
+Edges: 1003
+Path : 369200 ~> 666360
+
+Root : 369400
+Kink : 174
+Edges: 1001
+Path : 369400 ~> 666360
+
+Root : 369600
+Kink : 174
+Edges: 1002
+Path : 369600 ~> 666360
+
+Root : 369800
+Kink : 176
+Edges: 1009
+Path : 369800 ~> 666360
+
+Root : 369900
+Kink : 174
+Edges: 999
+Path : 369900 ~> 666360
+
+Root : 370000
+Kink : 176
+Edges: 1017
+Path : 370000 ~> 666360
+
+Root : 370200
+Kink : 176
+Edges: 1019
+Path : 370200 ~> 666360
+
+Root : 370400
+Kink : 176
+Edges: 1026
+Path : 370400 ~> 666360
+
+Root : 370600
+Kink : 176
+Edges: 1018
+Path : 370600 ~> 666360
+
+Root : 370800
+Kink : 176
+Edges: 1016
+Path : 370800 ~> 666360
+
+Root : 371000
+Kink : 178
+Edges: 1031
+Path : 371000 ~> 666360
+
+Root : 371200
+Kink : 178
+Edges: 1029
+Path : 371200 ~> 666360
+
+Root : 371400
+Kink : 178
+Edges: 1033
+Path : 371400 ~> 666360
+
+Root : 371600
+Kink : 178
+Edges: 1032
+Path : 371600 ~> 666360
+
+Root : 371800
+Kink : 178
+Edges: 1033
+Path : 371800 ~> 666360
+
+Root : 372000
+Kink : 180
+Edges: 1036
+Path : 372000 ~> 666360
+
+Root : 372200
+Kink : 166
+Edges: 947
+Path : 372200 ~> 666360
+
+Root : 372201
+Kink : 166
+Edges: 947
+Path : 372201 ~> 666360
+
+Root : 372404
+Kink : 180
+Edges: 835
+Path : 372404 ~> 619513
+
+Root : 372405
+Kink : 180
+Edges: 836
+Path : 372405 ~> 619513
+
+Root : 372423
+Kink : 180
+Edges: 833
+Path : 372423 ~> 619513
+
+Root : 372442
+Kink : 180
+Edges: 831
+Path : 372442 ~> 619513
+
+Root : 372443
+Kink : 180
+Edges: 832
+Path : 372443 ~> 619513
+
+Root : 372445
+Kink : 180
+Edges: 833
+Path : 372445 ~> 619513
+
+Root : 372463
+Kink : 180
+Edges: 829
+Path : 372463 ~> 619513
+
+Root : 372465
+Kink : 180
+Edges: 830
+Path : 372465 ~> 619513
+
+Root : 372466
+Kink : 180
+Edges: 831
+Path : 372466 ~> 619513
+
+Root : 372475
+Kink : 180
+Edges: 827
+Path : 372475 ~> 619513
+
+Root : 372476
+Kink : 180
+Edges: 828
+Path : 372476 ~> 619513
+
+Root : 372479
+Kink : 180
+Edges: 829
+Path : 372479 ~> 619513
+
+Root : 372481
+Kink : 180
+Edges: 825
+Path : 372481 ~> 619513
+
+Root : 372484
+Kink : 180
+Edges: 826
+Path : 372484 ~> 619513
+
+Root : 372486
+Kink : 180
+Edges: 827
+Path : 372486 ~> 619513
+
+Root : 372497
+Kink : 180
+Edges: 823
+Path : 372497 ~> 619513
+
+Root : 372534
+Kink : 180
+Edges: 821
+Path : 372534 ~> 619513
+
+Root : 372542
+Kink : 180
+Edges: 819
+Path : 372542 ~> 619513
+
+Root : 372543
+Kink : 180
+Edges: 820
+Path : 372543 ~> 619513
+
+Root : 372556
+Kink : 180
+Edges: 817
+Path : 372556 ~> 619513
+
+Root : 372583
+Kink : 180
+Edges: 813
+Path : 372583 ~> 619513
+
+Root : 372585
+Kink : 180
+Edges: 810
+Path : 372585 ~> 619513
+
+Root : 372586
+Kink : 180
+Edges: 811
+Path : 372586 ~> 619513
+
+Root : 372591
+Kink : 180
+Edges: 808
+Path : 372591 ~> 619513
+
+Root : 372593
+Kink : 180
+Edges: 809
+Path : 372593 ~> 619513
+
+Root : 372594
+Kink : 180
+Edges: 810
+Path : 372594 ~> 619513
+
+Root : 372595
+Kink : 180
+Edges: 811
+Path : 372595 ~> 619513
+
+Root : 372598
+Kink : 180
+Edges: 806
+Path : 372598 ~> 619513
+
+Root : 372599
+Kink : 180
+Edges: 807
+Path : 372599 ~> 619513
+
+Root : 372621
+Kink : 180
+Edges: 808
+Path : 372621 ~> 619513
+
+Root : 372622
+Kink : 180
+Edges: 804
+Path : 372622 ~> 619513
+
+Root : 372651
+Kink : 180
+Edges: 805
+Path : 372651 ~> 619513
+
+Root : 372689
+Kink : 180
+Edges: 802
+Path : 372689 ~> 619513
+
+Root : 372744
+Kink : 180
+Edges: 798
+Path : 372744 ~> 619513
+
+Root : 377041
+Kink : 141
+Edges: 710
+Path : 377041 ~> 619513
+
+Root : 377098
+Kink : 141
+Edges: 709
+Path : 377098 ~> 619513
+
+Root : 377154
+Kink : 141
+Edges: 708
+Path : 377154 ~> 619513
+
+Root : 377210
+Kink : 139
+Edges: 702
+Path : 377210 ~> 619513
+
+Root : 377267
+Kink : 139
+Edges: 701
+Path : 377267 ~> 619513
+
+Root : 377325
+Kink : 139
+Edges: 700
+Path : 377325 ~> 619513
+
+Root : 377383
+Kink : 139
+Edges: 699
+Path : 377383 ~> 619513
+
+Root : 377440
+Kink : 139
+Edges: 698
+Path : 377440 ~> 619513
+
+Root : 377499
+Kink : 137
+Edges: 698
+Path : 377499 ~> 619513
+
+Root : 377558
+Kink : 137
+Edges: 697
+Path : 377558 ~> 619513
+
+Root : 377619
+Kink : 137
+Edges: 696
+Path : 377619 ~> 619513
+
+Root : 377678
+Kink : 137
+Edges: 695
+Path : 377678 ~> 619513
+
+Root : 377741
+Kink : 137
+Edges: 694
+Path : 377741 ~> 619513
+
+Root : 377866
+Kink : 135
+Edges: 694
+Path : 377866 ~> 619513
+
+Root : 377928
+Kink : 135
+Edges: 693
+Path : 377928 ~> 619513
+
+Root : 377989
+Kink : 135
+Edges: 692
+Path : 377989 ~> 619513
+
+Root : 378049
+Kink : 135
+Edges: 691
+Path : 378049 ~> 619513
+
+Root : 378111
+Kink : 135
+Edges: 690
+Path : 378111 ~> 619513
+
+Root : 378172
+Kink : 133
+Edges: 692
+Path : 378172 ~> 619513
+
+Root : 378232
+Kink : 133
+Edges: 691
+Path : 378232 ~> 619513
+
+Root : 378292
+Kink : 133
+Edges: 690
+Path : 378292 ~> 619513
+
+Root : 378353
+Kink : 133
+Edges: 689
+Path : 378353 ~> 619513
+
+Root : 378416
+Kink : 133
+Edges: 688
+Path : 378416 ~> 619513
+
+Root : 378480
+Kink : 131
+Edges: 690
+Path : 378480 ~> 619513
+
+Root : 378545
+Kink : 131
+Edges: 689
+Path : 378545 ~> 619513
+
+Root : 378609
+Kink : 131
+Edges: 688
+Path : 378609 ~> 619513
+
+Root : 378670
+Kink : 131
+Edges: 687
+Path : 378670 ~> 619513
+
+Root : 378732
+Kink : 131
+Edges: 686
+Path : 378732 ~> 619513
+
+Root : 378856
+Kink : 129
+Edges: 688
+Path : 378856 ~> 619513
+
+Root : 378914
+Kink : 129
+Edges: 687
+Path : 378914 ~> 619513
+
+Root : 378975
+Kink : 129
+Edges: 686
+Path : 378975 ~> 619513
+
+Root : 379035
+Kink : 129
+Edges: 685
+Path : 379035 ~> 619513
+
+Root : 379099
+Kink : 129
+Edges: 684
+Path : 379099 ~> 619513
+
+Root : 379160
+Kink : 127
+Edges: 681
+Path : 379160 ~> 619513
+
+Root : 379222
+Kink : 127
+Edges: 680
+Path : 379222 ~> 619513
+
+Root : 379282
+Kink : 127
+Edges: 679
+Path : 379282 ~> 619513
+
+Root : 379343
+Kink : 127
+Edges: 678
+Path : 379343 ~> 619513
+
+Root : 379404
+Kink : 127
+Edges: 677
+Path : 379404 ~> 619513
+
+Root : 379468
+Kink : 125
+Edges: 679
+Path : 379468 ~> 619513
+
+Root : 379531
+Kink : 125
+Edges: 678
+Path : 379531 ~> 619513
+
+Root : 379594
+Kink : 125
+Edges: 677
+Path : 379594 ~> 619513
+
+Root : 379657
+Kink : 125
+Edges: 676
+Path : 379657 ~> 619513
+
+Root : 379723
+Kink : 125
+Edges: 675
+Path : 379723 ~> 619513
+
+Root : 379853
+Kink : 123
+Edges: 676
+Path : 379853 ~> 619513
+
+Root : 379921
+Kink : 123
+Edges: 675
+Path : 379921 ~> 619513
+
+Root : 379985
+Kink : 123
+Edges: 674
+Path : 379985 ~> 619513
+
+Root : 380049
+Kink : 123
+Edges: 673
+Path : 380049 ~> 619513
+
+Root : 380113
+Kink : 123
+Edges: 672
+Path : 380113 ~> 619513
+
+Root : 380179
+Kink : 121
+Edges: 673
+Path : 380179 ~> 619513
+
+Root : 380244
+Kink : 121
+Edges: 672
+Path : 380244 ~> 619513
+
+Root : 380311
+Kink : 121
+Edges: 671
+Path : 380311 ~> 619513
+
+Root : 380377
+Kink : 121
+Edges: 670
+Path : 380377 ~> 619513
+
+Root : 380446
+Kink : 121
+Edges: 669
+Path : 380446 ~> 619513
+
+Root : 380514
+Kink : 119
+Edges: 671
+Path : 380514 ~> 619513
+
+Root : 380582
+Kink : 119
+Edges: 670
+Path : 380582 ~> 619513
+
+Root : 380650
+Kink : 119
+Edges: 669
+Path : 380650 ~> 619513
+
+Root : 380719
+Kink : 119
+Edges: 668
+Path : 380719 ~> 619513
+
+Root : 380786
+Kink : 119
+Edges: 667
+Path : 380786 ~> 619513
+
+Root : 380916
+Kink : 117
+Edges: 669
+Path : 380916 ~> 619513
+
+Root : 380980
+Kink : 117
+Edges: 668
+Path : 380980 ~> 619513
+
+Root : 381044
+Kink : 117
+Edges: 667
+Path : 381044 ~> 619513
+
+Root : 381108
+Kink : 117
+Edges: 666
+Path : 381108 ~> 619513
+
+Root : 381172
+Kink : 117
+Edges: 665
+Path : 381172 ~> 619513
+
+Root : 381239
+Kink : 115
+Edges: 667
+Path : 381239 ~> 619513
+
+Root : 381307
+Kink : 115
+Edges: 666
+Path : 381307 ~> 619513
+
+Root : 381374
+Kink : 115
+Edges: 665
+Path : 381374 ~> 619513
+
+Root : 381441
+Kink : 115
+Edges: 664
+Path : 381441 ~> 619513
+
+Root : 381507
+Kink : 115
+Edges: 663
+Path : 381507 ~> 619513
+
+Root : 381574
+Kink : 113
+Edges: 665
+Path : 381574 ~> 619513
+
+Root : 381643
+Kink : 113
+Edges: 664
+Path : 381643 ~> 619513
+
+Root : 381709
+Kink : 113
+Edges: 663
+Path : 381709 ~> 619513
+
+Root : 381777
+Kink : 113
+Edges: 662
+Path : 381777 ~> 619513
+
+Root : 381845
+Kink : 113
+Edges: 661
+Path : 381845 ~> 619513
+
+Root : 381981
+Kink : 111
+Edges: 660
+Path : 381981 ~> 619513
+
+Root : 382049
+Kink : 111
+Edges: 659
+Path : 382049 ~> 619513
+
+Root : 382122
+Kink : 111
+Edges: 658
+Path : 382122 ~> 619513
+
+Root : 382195
+Kink : 111
+Edges: 657
+Path : 382195 ~> 619513
+
+Root : 382270
+Kink : 111
+Edges: 656
+Path : 382270 ~> 619513
+
+Root : 382345
+Kink : 109
+Edges: 657
+Path : 382345 ~> 619513
+
+Root : 382420
+Kink : 109
+Edges: 656
+Path : 382420 ~> 619513
+
+Root : 382500
+Kink : 109
+Edges: 655
+Path : 382500 ~> 619513
+
+Root : 382580
+Kink : 109
+Edges: 654
+Path : 382580 ~> 619513
+
+Root : 382658
+Kink : 109
+Edges: 653
+Path : 382658 ~> 619513
+
+Root : 382738
+Kink : 107
+Edges: 655
+Path : 382738 ~> 619513
+
+Root : 382820
+Kink : 107
+Edges: 654
+Path : 382820 ~> 619513
+
+Root : 382904
+Kink : 107
+Edges: 653
+Path : 382904 ~> 619513
+
+Root : 382987
+Kink : 107
+Edges: 652
+Path : 382987 ~> 619513
+
+Root : 383068
+Kink : 107
+Edges: 651
+Path : 383068 ~> 619513
+
+Root : 383240
+Kink : 105
+Edges: 653
+Path : 383240 ~> 619513
+
+Root : 383328
+Kink : 105
+Edges: 652
+Path : 383328 ~> 619513
+
+Root : 383417
+Kink : 105
+Edges: 651
+Path : 383417 ~> 619513
+
+Root : 383505
+Kink : 105
+Edges: 650
+Path : 383505 ~> 619513
+
+Root : 383595
+Kink : 105
+Edges: 649
+Path : 383595 ~> 619513
+
+Root : 383631
+Kink : 103
+Edges: 651
+Path : 383631 ~> 619513
+
+Root : 383879
+Kink : 101
+Edges: 643
+Path : 383879 ~> 619513
+
+Root : 384034
+Kink : 99
+Edges: 639
+Path : 384034 ~> 619513
+
+Root : 384058
+Kink : 99
+Edges: 638
+Path : 384058 ~> 619513
+
+Root : 384089
+Kink : 99
+Edges: 637
+Path : 384089 ~> 619513
+
+Root : 384275
+Kink : 95
+Edges: 622
+Path : 384275 ~> 619513
+
+Root : 384339
+Kink : 95
+Edges: 623
+Path : 384339 ~> 619513
+
+Root : 384363
+Kink : 95
+Edges: 622
+Path : 384363 ~> 619513
+
+Root : 384471
+Kink : 93
+Edges: 620
+Path : 384471 ~> 619513
+
+Root : 384528
+Kink : 93
+Edges: 620
+Path : 384528 ~> 619513
+
+Root : 384556
+Kink : 93
+Edges: 619
+Path : 384556 ~> 619513
+
+Root : 384624
+Kink : 91
+Edges: 620
+Path : 384624 ~> 619513
+
+Root : 384738
+Kink : 90
+Edges: 443
+Path : 384738 ~> 666360
+
+Root : 385152
+Kink : 94
+Edges: 453
+Path : 385152 ~> 666360
+
+Root : 385181
+Kink : 94
+Edges: 452
+Path : 385181 ~> 666360
+
+Root : 385243
+Kink : 96
+Edges: 457
+Path : 385243 ~> 666360
+
+Root : 385354
+Kink : 96
+Edges: 455
+Path : 385354 ~> 666360
+
+Root : 385483
+Kink : 98
+Edges: 467
+Path : 385483 ~> 666360
+
+Root : 385848
+Kink : 102
+Edges: 503
+Path : 385848 ~> 666360
+
+Root : 386069
+Kink : 114
+Edges: 756
+Path : 386069 ~> 666360
+
+Root : 386092
+Kink : 114
+Edges: 755
+Path : 386092 ~> 666360
+
+Root : 386115
+Kink : 114
+Edges: 754
+Path : 386115 ~> 666360
+
+Root : 386139
+Kink : 114
+Edges: 753
+Path : 386139 ~> 666360
+
+Root : 386164
+Kink : 114
+Edges: 752
+Path : 386164 ~> 666360
+
+Root : 386189
+Kink : 116
+Edges: 772
+Path : 386189 ~> 666360
+
+Root : 386215
+Kink : 116
+Edges: 771
+Path : 386215 ~> 666360
+
+Root : 386242
+Kink : 116
+Edges: 770
+Path : 386242 ~> 666360
+
+Root : 386271
+Kink : 116
+Edges: 769
+Path : 386271 ~> 666360
+
+Root : 386300
+Kink : 116
+Edges: 768
+Path : 386300 ~> 666360
+
+Root : 386329
+Kink : 118
+Edges: 780
+Path : 386329 ~> 666360
+
+Root : 386356
+Kink : 118
+Edges: 779
+Path : 386356 ~> 666360
+
+Root : 386383
+Kink : 118
+Edges: 778
+Path : 386383 ~> 666360
+
+Root : 386411
+Kink : 118
+Edges: 777
+Path : 386411 ~> 666360
+
+Root : 386438
+Kink : 118
+Edges: 776
+Path : 386438 ~> 666360
+
+Root : 386490
+Kink : 120
+Edges: 791
+Path : 386490 ~> 666360
+
+Root : 386517
+Kink : 120
+Edges: 790
+Path : 386517 ~> 666360
+
+Root : 386545
+Kink : 120
+Edges: 789
+Path : 386545 ~> 666360
+
+Root : 386572
+Kink : 120
+Edges: 788
+Path : 386572 ~> 666360
+
+Root : 386599
+Kink : 120
+Edges: 787
+Path : 386599 ~> 666360
+
+Root : 386625
+Kink : 122
+Edges: 796
+Path : 386625 ~> 666360
+
+Root : 386652
+Kink : 122
+Edges: 795
+Path : 386652 ~> 666360
+
+Root : 386679
+Kink : 122
+Edges: 794
+Path : 386679 ~> 666360
+
+Root : 386706
+Kink : 122
+Edges: 793
+Path : 386706 ~> 666360
+
+Root : 386733
+Kink : 122
+Edges: 792
+Path : 386733 ~> 666360
+
+Root : 386762
+Kink : 124
+Edges: 801
+Path : 386762 ~> 666360
+
+Root : 386792
+Kink : 124
+Edges: 800
+Path : 386792 ~> 666360
+
+Root : 386822
+Kink : 124
+Edges: 799
+Path : 386822 ~> 666360
+
+Root : 386852
+Kink : 124
+Edges: 798
+Path : 386852 ~> 666360
+
+Root : 386883
+Kink : 124
+Edges: 797
+Path : 386883 ~> 666360
+
+Root : 386953
+Kink : 126
+Edges: 814
+Path : 386953 ~> 666360
+
+Root : 386989
+Kink : 126
+Edges: 813
+Path : 386989 ~> 666360
+
+Root : 387026
+Kink : 126
+Edges: 812
+Path : 387026 ~> 666360
+
+Root : 387063
+Kink : 126
+Edges: 811
+Path : 387063 ~> 666360
+
+Root : 387101
+Kink : 126
+Edges: 810
+Path : 387101 ~> 666360
+
+Root : 387138
+Kink : 128
+Edges: 818
+Path : 387138 ~> 666360
+
+Root : 387175
+Kink : 128
+Edges: 817
+Path : 387175 ~> 666360
+
+Root : 387214
+Kink : 128
+Edges: 816
+Path : 387214 ~> 666360
+
+Root : 387256
+Kink : 128
+Edges: 815
+Path : 387256 ~> 666360
+
+Root : 387294
+Kink : 128
+Edges: 814
+Path : 387294 ~> 666360
+
+Root : 387331
+Kink : 130
+Edges: 822
+Path : 387331 ~> 666360
+
+Root : 387365
+Kink : 130
+Edges: 821
+Path : 387365 ~> 666360
+
+Root : 387400
+Kink : 130
+Edges: 820
+Path : 387400 ~> 666360
+
+Root : 387438
+Kink : 130
+Edges: 819
+Path : 387438 ~> 666360
+
+Root : 387475
+Kink : 130
+Edges: 818
+Path : 387475 ~> 666360
+
+Root : 387545
+Kink : 132
+Edges: 829
+Path : 387545 ~> 666360
+
+Root : 387581
+Kink : 132
+Edges: 828
+Path : 387581 ~> 666360
+
+Root : 387616
+Kink : 132
+Edges: 827
+Path : 387616 ~> 666360
+
+Root : 387654
+Kink : 132
+Edges: 826
+Path : 387654 ~> 666360
+
+Root : 387690
+Kink : 132
+Edges: 825
+Path : 387690 ~> 666360
+
+Root : 387727
+Kink : 134
+Edges: 831
+Path : 387727 ~> 666360
+
+Root : 387765
+Kink : 134
+Edges: 830
+Path : 387765 ~> 666360
+
+Root : 387806
+Kink : 134
+Edges: 829
+Path : 387806 ~> 666360
+
+Root : 387844
+Kink : 134
+Edges: 828
+Path : 387844 ~> 666360
+
+Root : 387881
+Kink : 134
+Edges: 827
+Path : 387881 ~> 666360
+
+Root : 387917
+Kink : 136
+Edges: 837
+Path : 387917 ~> 666360
+
+Root : 387954
+Kink : 136
+Edges: 836
+Path : 387954 ~> 666360
+
+Root : 387990
+Kink : 136
+Edges: 835
+Path : 387990 ~> 666360
+
+Root : 388026
+Kink : 136
+Edges: 834
+Path : 388026 ~> 666360
+
+Root : 388066
+Kink : 136
+Edges: 833
+Path : 388066 ~> 666360
+
+Root : 388143
+Kink : 138
+Edges: 849
+Path : 388143 ~> 666360
+
+Root : 388184
+Kink : 138
+Edges: 848
+Path : 388184 ~> 666360
+
+Root : 388225
+Kink : 138
+Edges: 847
+Path : 388225 ~> 666360
+
+Root : 388264
+Kink : 138
+Edges: 846
+Path : 388264 ~> 666360
+
+Root : 388308
+Kink : 138
+Edges: 845
+Path : 388308 ~> 666360
+
+Root : 388350
+Kink : 140
+Edges: 875
+Path : 388350 ~> 666360
+
+Root : 388393
+Kink : 140
+Edges: 874
+Path : 388393 ~> 666360
+
+Root : 388438
+Kink : 140
+Edges: 873
+Path : 388438 ~> 666360
+
+Root : 388483
+Kink : 140
+Edges: 872
+Path : 388483 ~> 666360
+
+Root : 388530
+Kink : 140
+Edges: 871
+Path : 388530 ~> 666360
+
+Root : 388575
+Kink : 142
+Edges: 891
+Path : 388575 ~> 666360
+
+Root : 388622
+Kink : 142
+Edges: 890
+Path : 388622 ~> 666360
+
+Root : 388663
+Kink : 142
+Edges: 889
+Path : 388663 ~> 666360
+
+Root : 388706
+Kink : 142
+Edges: 888
+Path : 388706 ~> 666360
+
+Root : 388749
+Kink : 142
+Edges: 887
+Path : 388749 ~> 666360
+
+Root : 388839
+Kink : 144
+Edges: 899
+Path : 388839 ~> 666360
+
+Root : 388886
+Kink : 144
+Edges: 898
+Path : 388886 ~> 666360
+
+Root : 388934
+Kink : 144
+Edges: 897
+Path : 388934 ~> 666360
+
+Root : 388982
+Kink : 144
+Edges: 896
+Path : 388982 ~> 666360
+
+Root : 389030
+Kink : 144
+Edges: 895
+Path : 389030 ~> 666360
+
+Root : 389079
+Kink : 146
+Edges: 903
+Path : 389079 ~> 666360
+
+Root : 389129
+Kink : 146
+Edges: 902
+Path : 389129 ~> 666360
+
+Root : 389179
+Kink : 146
+Edges: 901
+Path : 389179 ~> 666360
+
+Root : 389228
+Kink : 146
+Edges: 900
+Path : 389228 ~> 666360
+
+Root : 389281
+Kink : 146
+Edges: 899
+Path : 389281 ~> 666360
+
+Root : 389333
+Kink : 148
+Edges: 905
+Path : 389333 ~> 666360
+
+Root : 389384
+Kink : 148
+Edges: 904
+Path : 389384 ~> 666360
+
+Root : 389438
+Kink : 148
+Edges: 903
+Path : 389438 ~> 666360
+
+Root : 389491
+Kink : 148
+Edges: 902
+Path : 389491 ~> 666360
+
+Root : 389541
+Kink : 148
+Edges: 901
+Path : 389541 ~> 666360
+
+Root : 389625
+Kink : 150
+Edges: 917
+Path : 389625 ~> 666360
+
+Root : 389694
+Kink : 150
+Edges: 916
+Path : 389694 ~> 666360
+
+Root : 389704
+Kink : 150
+Edges: 916
+Path : 389704 ~> 666360
+
+Root : 389705
+Kink : 150
+Edges: 916
+Path : 389705 ~> 666360
+
+Root : 389708
+Kink : 150
+Edges: 918
+Path : 389708 ~> 666360
+
+Root : 389720
+Kink : 150
+Edges: 917
+Path : 389720 ~> 666360
+
+Root : 389724
+Kink : 150
+Edges: 916
+Path : 389724 ~> 666360
+
+Root : 389727
+Kink : 152
+Edges: 930
+Path : 389727 ~> 666360
+
+Root : 389741
+Kink : 152
+Edges: 929
+Path : 389741 ~> 666360
+
+Root : 389749
+Kink : 152
+Edges: 928
+Path : 389749 ~> 666360
+
+Root : 389750
+Kink : 152
+Edges: 927
+Path : 389750 ~> 666360
+
+Root : 389751
+Kink : 152
+Edges: 926
+Path : 389751 ~> 666360
+
+Root : 389768
+Kink : 152
+Edges: 925
+Path : 389768 ~> 666360
+
+Root : 389775
+Kink : 152
+Edges: 924
+Path : 389775 ~> 666360
+
+Root : 389777
+Kink : 152
+Edges: 925
+Path : 389777 ~> 666360
+
+Root : 389797
+Kink : 152
+Edges: 924
+Path : 389797 ~> 666360
+
+Root : 389804
+Kink : 152
+Edges: 923
+Path : 389804 ~> 666360
+
+Root : 389807
+Kink : 152
+Edges: 922
+Path : 389807 ~> 666360
+
+Root : 389809
+Kink : 152
+Edges: 924
+Path : 389809 ~> 666360
+
+Root : 389833
+Kink : 152
+Edges: 923
+Path : 389833 ~> 666360
+
+Root : 389840
+Kink : 152
+Edges: 922
+Path : 389840 ~> 666360
+
+Root : 389847
+Kink : 152
+Edges: 922
+Path : 389847 ~> 666360
+
+Root : 389875
+Kink : 152
+Edges: 921
+Path : 389875 ~> 666360
+
+Root : 389882
+Kink : 152
+Edges: 920
+Path : 389882 ~> 666360
+
+Root : 389889
+Kink : 154
+Edges: 925
+Path : 389889 ~> 666360
+
+Root : 389925
+Kink : 154
+Edges: 924
+Path : 389925 ~> 666360
+
+Root : 389932
+Kink : 154
+Edges: 923
+Path : 389932 ~> 666360
+
+Root : 389938
+Kink : 154
+Edges: 929
+Path : 389938 ~> 666360
+
+Root : 389978
+Kink : 154
+Edges: 928
+Path : 389978 ~> 666360
+
+Root : 389985
+Kink : 154
+Edges: 927
+Path : 389985 ~> 666360
+
+Root : 389988
+Kink : 154
+Edges: 926
+Path : 389988 ~> 666360
+
+Root : 389990
+Kink : 154
+Edges: 928
+Path : 389990 ~> 666360
+
+Root : 390034
+Kink : 154
+Edges: 927
+Path : 390034 ~> 666360
+
+Root : 390041
+Kink : 154
+Edges: 926
+Path : 390041 ~> 666360
+
+Root : 390093
+Kink : 154
+Edges: 926
+Path : 390093 ~> 666360
+
+Root : 390152
+Kink : 154
+Edges: 930
+Path : 390152 ~> 666360
+
+Root : 390157
+Kink : 154
+Edges: 927
+Path : 390157 ~> 666360
+
+Root : 390208
+Kink : 154
+Edges: 927
+Path : 390208 ~> 666360
+
+Root : 390264
+Kink : 156
+Edges: 930
+Path : 390264 ~> 666360
+
+Root : 390322
+Kink : 156
+Edges: 927
+Path : 390322 ~> 666360
+
+Root : 390381
+Kink : 156
+Edges: 927
+Path : 390381 ~> 666360
+
+Root : 390441
+Kink : 156
+Edges: 929
+Path : 390441 ~> 666360
+
+Root : 390501
+Kink : 156
+Edges: 927
+Path : 390501 ~> 666360
+
+Root : 390561
+Kink : 158
+Edges: 932
+Path : 390561 ~> 666360
+
+Root : 390568
+Kink : 158
+Edges: 931
+Path : 390568 ~> 666360
+
+Root : 390570
+Kink : 158
+Edges: 930
+Path : 390570 ~> 666360
+
+Root : 390622
+Kink : 158
+Edges: 931
+Path : 390622 ~> 666360
+
+Root : 390629
+Kink : 158
+Edges: 931
+Path : 390629 ~> 666360
+
+Root : 390683
+Kink : 158
+Edges: 934
+Path : 390683 ~> 666360
+
+Root : 390690
+Kink : 158
+Edges: 933
+Path : 390690 ~> 666360
+
+Root : 390691
+Kink : 158
+Edges: 932
+Path : 390691 ~> 666360
+
+Root : 390745
+Kink : 158
+Edges: 931
+Path : 390745 ~> 666360
+
+Root : 390753
+Kink : 158
+Edges: 931
+Path : 390753 ~> 666360
+
+Root : 390806
+Kink : 158
+Edges: 930
+Path : 390806 ~> 666360
+
+Root : 390814
+Kink : 158
+Edges: 929
+Path : 390814 ~> 666360
+
+Root : 390815
+Kink : 158
+Edges: 928
+Path : 390815 ~> 666360
+
+Root : 390869
+Kink : 160
+Edges: 931
+Path : 390869 ~> 666360
+
+Root : 390880
+Kink : 160
+Edges: 930
+Path : 390880 ~> 666360
+
+Root : 390934
+Kink : 160
+Edges: 933
+Path : 390934 ~> 666360
+
+Root : 390946
+Kink : 160
+Edges: 932
+Path : 390946 ~> 666360
+
+Root : 391000
+Kink : 160
+Edges: 932
+Path : 391000 ~> 666360
+
+Root : 391012
+Kink : 160
+Edges: 931
+Path : 391012 ~> 666360
+
+Root : 391064
+Kink : 160
+Edges: 934
+Path : 391064 ~> 666360
+
+Root : 391078
+Kink : 160
+Edges: 933
+Path : 391078 ~> 666360
+
+Root : 391128
+Kink : 160
+Edges: 936
+Path : 391128 ~> 666360
+
+Root : 391142
+Kink : 160
+Edges: 930
+Path : 391142 ~> 666360
+
+Root : 391189
+Kink : 160
+Edges: 930
+Path : 391189 ~> 666360
+
+Root : 391247
+Kink : 162
+Edges: 935
+Path : 391247 ~> 666360
+
+Root : 391261
+Kink : 162
+Edges: 934
+Path : 391261 ~> 666360
+
+Root : 391262
+Kink : 162
+Edges: 933
+Path : 391262 ~> 666360
+
+Root : 391309
+Kink : 162
+Edges: 933
+Path : 391309 ~> 666360
+
+Root : 391329
+Kink : 162
+Edges: 932
+Path : 391329 ~> 666360
+
+Root : 391374
+Kink : 162
+Edges: 936
+Path : 391374 ~> 666360
+
+Root : 391395
+Kink : 162
+Edges: 935
+Path : 391395 ~> 666360
+
+Root : 391440
+Kink : 162
+Edges: 936
+Path : 391440 ~> 666360
+
+Root : 391465
+Kink : 162
+Edges: 935
+Path : 391465 ~> 666360
+
+Root : 391509
+Kink : 162
+Edges: 930
+Path : 391509 ~> 666360
+
+Root : 391537
+Kink : 162
+Edges: 929
+Path : 391537 ~> 666360
+
+Root : 391581
+Kink : 164
+Edges: 940
+Path : 391581 ~> 666360
+
+Root : 391678
+Kink : 164
+Edges: 942
+Path : 391678 ~> 666360
+
+Root : 391686
+Kink : 164
+Edges: 941
+Path : 391686 ~> 666360
+
+Root : 391751
+Kink : 164
+Edges: 945
+Path : 391751 ~> 666360
+
+Root : 391752
+Kink : 164
+Edges: 944
+Path : 391752 ~> 666360
+
+Root : 391823
+Kink : 164
+Edges: 945
+Path : 391823 ~> 666360
+
+Root : 391824
+Kink : 164
+Edges: 944
+Path : 391824 ~> 666360
+
+Root : 391834
+Kink : 164
+Edges: 943
+Path : 391834 ~> 666360
+
+Root : 391897
+Kink : 164
+Edges: 946
+Path : 391897 ~> 666360
+
+Root : 391898
+Kink : 164
+Edges: 945
+Path : 391898 ~> 666360
+
+Root : 391899
+Kink : 164
+Edges: 944
+Path : 391899 ~> 666360
+
+Root : 391901
+Kink : 164
+Edges: 944
+Path : 391901 ~> 666360
+
+Root : 391912
+Kink : 164
+Edges: 944
+Path : 391912 ~> 666360
+
+Root : 391974
+Kink : 166
+Edges: 947
+Path : 391974 ~> 666360
+
+Root : 391976
+Kink : 166
+Edges: 947
+Path : 391976 ~> 666360
+
+Root : 391983
+Kink : 166
+Edges: 946
+Path : 391983 ~> 666360
+
+Root : 391988
+Kink : 166
+Edges: 945
+Path : 391988 ~> 666360
+
+Root : 392052
+Kink : 166
+Edges: 947
+Path : 392052 ~> 666360
+
+Root : 392058
+Kink : 166
+Edges: 946
+Path : 392058 ~> 666360
+
+Root : 392062
+Kink : 166
+Edges: 944
+Path : 392062 ~> 666360
+
+Root : 392123
+Kink : 166
+Edges: 945
+Path : 392123 ~> 666360
+
+Root : 392136
+Kink : 166
+Edges: 943
+Path : 392136 ~> 666360
+
+Root : 392195
+Kink : 166
+Edges: 950
+Path : 392195 ~> 666360
+
+Root : 392196
+Kink : 166
+Edges: 949
+Path : 392196 ~> 666360
+
+Root : 392262
+Kink : 166
+Edges: 950
+Path : 392262 ~> 666360
+
+Root : 392263
+Kink : 166
+Edges: 949
+Path : 392263 ~> 666360
+
+Root : 392264
+Kink : 166
+Edges: 948
+Path : 392264 ~> 666360
+
+Root : 392275
+Kink : 166
+Edges: 949
+Path : 392275 ~> 666360
+
+Root : 392330
+Kink : 166
+Edges: 949
+Path : 392330 ~> 666360
+
+Root : 392332
+Kink : 166
+Edges: 948
+Path : 392332 ~> 666360
+
+Root : 392333
+Kink : 166
+Edges: 947
+Path : 392333 ~> 666360
+
+Root : 392334
+Kink : 166
+Edges: 946
+Path : 392334 ~> 666360
+
+Root : 392335
+Kink : 166
+Edges: 945
+Path : 392335 ~> 666360
+
+Root : 392399
+Kink : 168
+Edges: 952
+Path : 392399 ~> 666360
+
+Root : 392400
+Kink : 168
+Edges: 951
+Path : 392400 ~> 666360
+
+Root : 392401
+Kink : 168
+Edges: 950
+Path : 392401 ~> 666360
+
+Root : 392403
+Kink : 168
+Edges: 949
+Path : 392403 ~> 666360
+
+Root : 392466
+Kink : 168
+Edges: 954
+Path : 392466 ~> 666360
+
+Root : 392469
+Kink : 168
+Edges: 953
+Path : 392469 ~> 666360
+
+Root : 392473
+Kink : 168
+Edges: 952
+Path : 392473 ~> 666360
+
+Root : 392476
+Kink : 168
+Edges: 951
+Path : 392476 ~> 666360
+
+Root : 392538
+Kink : 168
+Edges: 954
+Path : 392538 ~> 666360
+
+Root : 392539
+Kink : 168
+Edges: 953
+Path : 392539 ~> 666360
+
+Root : 392540
+Kink : 168
+Edges: 952
+Path : 392540 ~> 666360
+
+Root : 392541
+Kink : 168
+Edges: 951
+Path : 392541 ~> 666360
+
+Root : 392601
+Kink : 168
+Edges: 955
+Path : 392601 ~> 666360
+
+Root : 392602
+Kink : 168
+Edges: 954
+Path : 392602 ~> 666360
+
+Root : 392603
+Kink : 168
+Edges: 953
+Path : 392603 ~> 666360
+
+Root : 392605
+Kink : 168
+Edges: 952
+Path : 392605 ~> 666360
+
+Root : 392664
+Kink : 168
+Edges: 953
+Path : 392664 ~> 666360
+
+Root : 392665
+Kink : 168
+Edges: 952
+Path : 392665 ~> 666360
+
+Root : 392667
+Kink : 168
+Edges: 951
+Path : 392667 ~> 666360
+
+Root : 392668
+Kink : 168
+Edges: 950
+Path : 392668 ~> 666360
+
+Root : 392669
+Kink : 168
+Edges: 949
+Path : 392669 ~> 666360
+
+Root : 392726
+Kink : 170
+Edges: 958
+Path : 392726 ~> 666360
+
+Root : 392730
+Kink : 170
+Edges: 957
+Path : 392730 ~> 666360
+
+Root : 392732
+Kink : 170
+Edges: 956
+Path : 392732 ~> 666360
+
+Root : 392792
+Kink : 170
+Edges: 961
+Path : 392792 ~> 666360
+
+Root : 392793
+Kink : 170
+Edges: 960
+Path : 392793 ~> 666360
+
+Root : 392794
+Kink : 170
+Edges: 959
+Path : 392794 ~> 666360
+
+Root : 392795
+Kink : 170
+Edges: 958
+Path : 392795 ~> 666360
+
+Root : 392796
+Kink : 170
+Edges: 957
+Path : 392796 ~> 666360
+
+Root : 392797
+Kink : 170
+Edges: 956
+Path : 392797 ~> 666360
+
+Root : 392852
+Kink : 170
+Edges: 961
+Path : 392852 ~> 666360
+
+Root : 392855
+Kink : 170
+Edges: 960
+Path : 392855 ~> 666360
+
+Root : 392856
+Kink : 170
+Edges: 959
+Path : 392856 ~> 666360
+
+Root : 392857
+Kink : 170
+Edges: 958
+Path : 392857 ~> 666360
+
+Root : 392858
+Kink : 170
+Edges: 957
+Path : 392858 ~> 666360
+
+Root : 392917
+Kink : 170
+Edges: 957
+Path : 392917 ~> 666360
+
+Root : 392918
+Kink : 170
+Edges: 956
+Path : 392918 ~> 666360
+
+Root : 392919
+Kink : 170
+Edges: 955
+Path : 392919 ~> 666360
+
+Root : 392920
+Kink : 170
+Edges: 954
+Path : 392920 ~> 666360
+
+Root : 392977
+Kink : 170
+Edges: 958
+Path : 392977 ~> 666360
+
+Root : 392978
+Kink : 170
+Edges: 957
+Path : 392978 ~> 666360
+
+Root : 392981
+Kink : 170
+Edges: 956
+Path : 392981 ~> 666360
+
+Root : 392982
+Kink : 170
+Edges: 955
+Path : 392982 ~> 666360
+
+Root : 392983
+Kink : 170
+Edges: 954
+Path : 392983 ~> 666360
+
+Root : 392984
+Kink : 170
+Edges: 953
+Path : 392984 ~> 666360
+
+Root : 392985
+Kink : 170
+Edges: 952
+Path : 392985 ~> 666360
+
+Root : 393039
+Kink : 172
+Edges: 982
+Path : 393039 ~> 666360
+
+Root : 393042
+Kink : 172
+Edges: 981
+Path : 393042 ~> 666360
+
+Root : 393044
+Kink : 172
+Edges: 980
+Path : 393044 ~> 666360
+
+Root : 393047
+Kink : 172
+Edges: 979
+Path : 393047 ~> 666360
+
+Root : 393053
+Kink : 172
+Edges: 978
+Path : 393053 ~> 666360
+
+Root : 393098
+Kink : 172
+Edges: 985
+Path : 393098 ~> 666360
+
+Root : 393099
+Kink : 172
+Edges: 984
+Path : 393099 ~> 666360
+
+Root : 393102
+Kink : 172
+Edges: 983
+Path : 393102 ~> 666360
+
+Root : 393103
+Kink : 172
+Edges: 982
+Path : 393103 ~> 666360
+
+Root : 393105
+Kink : 172
+Edges: 981
+Path : 393105 ~> 666360
+
+Root : 393106
+Kink : 172
+Edges: 980
+Path : 393106 ~> 666360
+
+Root : 393108
+Kink : 172
+Edges: 979
+Path : 393108 ~> 666360
+
+Root : 393161
+Kink : 172
+Edges: 985
+Path : 393161 ~> 666360
+
+Root : 393162
+Kink : 172
+Edges: 984
+Path : 393162 ~> 666360
+
+Root : 393163
+Kink : 172
+Edges: 983
+Path : 393163 ~> 666360
+
+Root : 393166
+Kink : 172
+Edges: 982
+Path : 393166 ~> 666360
+
+Root : 393220
+Kink : 172
+Edges: 990
+Path : 393220 ~> 666360
+
+Root : 393223
+Kink : 172
+Edges: 989
+Path : 393223 ~> 666360
+
+Root : 393224
+Kink : 172
+Edges: 988
+Path : 393224 ~> 666360
+
+Root : 393226
+Kink : 172
+Edges: 987
+Path : 393226 ~> 666360
+
+Root : 393227
+Kink : 172
+Edges: 986
+Path : 393227 ~> 666360
+
+Root : 393228
+Kink : 172
+Edges: 985
+Path : 393228 ~> 666360
+
+Root : 393230
+Kink : 172
+Edges: 984
+Path : 393230 ~> 666360
+
+Root : 393282
+Kink : 172
+Edges: 988
+Path : 393282 ~> 666360
+
+Root : 393283
+Kink : 172
+Edges: 987
+Path : 393283 ~> 666360
+
+Root : 393286
+Kink : 172
+Edges: 986
+Path : 393286 ~> 666360
+
+Root : 393287
+Kink : 172
+Edges: 985
+Path : 393287 ~> 666360
+
+Root : 393288
+Kink : 172
+Edges: 984
+Path : 393288 ~> 666360
+
+Root : 393289
+Kink : 172
+Edges: 983
+Path : 393289 ~> 666360
+
+Root : 393290
+Kink : 172
+Edges: 982
+Path : 393290 ~> 666360
+
+Root : 393304
+Kink : 172
+Edges: 982
+Path : 393304 ~> 666360
+
+Root : 393342
+Kink : 172
+Edges: 982
+Path : 393342 ~> 666360
+
+Root : 393344
+Kink : 172
+Edges: 981
+Path : 393344 ~> 666360
+
+Root : 393345
+Kink : 172
+Edges: 980
+Path : 393345 ~> 666360
+
+Root : 393346
+Kink : 172
+Edges: 979
+Path : 393346 ~> 666360
+
+Root : 393348
+Kink : 172
+Edges: 978
+Path : 393348 ~> 666360
+
+Root : 393349
+Kink : 172
+Edges: 977
+Path : 393349 ~> 666360
+
+Root : 393403
+Kink : 174
+Edges: 1001
+Path : 393403 ~> 666360
+
+Root : 393405
+Kink : 174
+Edges: 1000
+Path : 393405 ~> 666360
+
+Root : 393406
+Kink : 174
+Edges: 999
+Path : 393406 ~> 666360
+
+Root : 393407
+Kink : 174
+Edges: 998
+Path : 393407 ~> 666360
+
+Root : 393408
+Kink : 174
+Edges: 997
+Path : 393408 ~> 666360
+
+Root : 393409
+Kink : 174
+Edges: 996
+Path : 393409 ~> 666360
+
+Root : 393462
+Kink : 174
+Edges: 1003
+Path : 393462 ~> 666360
+

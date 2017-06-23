@@ -1,12 +1,13 @@
 // Copyright 2017 Peter Hristov
-#include <iostream>
-#include <vector>
 #include <iomanip>
+#include <iostream>
 #include <queue>
+#include <vector>
+#include <cassert>
 
 using namespace std;
 
-int bfs(vector<vector<int>> tree, int root)
+pair<vector<int>, int> bfs(vector<vector<int>> tree, int root)
 {
     int last = -1;
     int wlast = -1;
@@ -40,7 +41,8 @@ int bfs(vector<vector<int>> tree, int root)
                 parent[v] = u;
 
                 // If both v and parent[u] are bigger or smaller than u
-                if ((u - v) * (u - parent[u]) > 0 && u != root)
+                // if ((u - v) * (u - parent[u]) > 0 && u != root)
+                if (((u > v && u > parent[u]) || (u < v && u < parent[u])) && u != root)
                 {
                     wdistance[v] = wdistance[u] + 1;
                 }
@@ -55,26 +57,27 @@ int bfs(vector<vector<int>> tree, int root)
     }
 
     cout << endl;
-    for (int i = 0 ; i < distance.size() ; i++)
+    for (int i = 0; i < distance.size(); i++)
     {
-        //printf("d(%d, %d) = %d, w(%d, %d) = %d, p(%d) = %d\n", root, i, distance[i], root, i, wdistance[i], i, parent[i]);
-        printf("d(%d, %d) = %d  |  w(%d, %d) = %d  |  p(%d) = %d\n", root, i, distance[i], root, i, wdistance[i], i, parent[i]);
+        // printf("d(%d, %d) = %d, w(%d, %d) = %d, p(%d) = %d\n", root, i, distance[i], root, i, wdistance[i], i, parent[i]);
+        // printf("d(%d, %d) = %d  |  w(%d, %d) = %d  |  p(%d) = %d\n", root, i, distance[i], root, i, wdistance[i], i, parent[i]);
     }
 
-    //cout << "Critical W Path : ";
-    //int i = last;
+    int i = wlast;
+    vector<int> path;
 
-    //while(parent[i] != i)
-    //{
-        //cout << i << " ";
-        //i = parent[i];
-    //}
+    while (parent[i] != i)
+    {
+        path.push_back(i);
+        i = parent[i];
+    }
 
-    //cout << i;
+    path.push_back(i);
 
-    //cout << endl;
+    // printf("Path %d ~> %d is %ld edges and %d kink.", *(path.end() - 1), *path.begin(), path.size(), wdistance[*path.begin()]);
 
-    return wlast;
+    // return wlast;
+    return {path, wdistance[*path.begin()]};
 }
 
 vector<vector<int>> readTree()
@@ -113,18 +116,84 @@ void printTree(const std::vector<std::vector<int>> &data)
     std::cout << std::endl;
 }
 
+int checkWDiameter(vector<int> path)
+{
+    int wd = 0;
+
+    for(int i = 1; i < path.size() - 1 ; i++)
+    {
+        if ((path[i] > path[i-1] && path[i] > path[i+1]) || (path[i] < path[i-1] && path[i] < path[i+1]))
+        {
+            wd++;
+        }
+    }
+
+    return wd;
+}
+
+bool isPath(vector<vector<int>> tree, vector<int> path)
+{
+    for(int u = 0; u < path.size() - 1 ; u++)
+    {
+        bool foundEdge = false;
+
+        for (auto v: tree[path[u]])
+        {
+            if (v == path[u + 1])
+            {
+                foundEdge = true;
+                break;
+            }
+        }
+
+        if (false == foundEdge)
+        {
+            return false;
+        }
+    }
+
+    return true;
+}
+
+int findRoot(vector<vector<int>> tree)
+{
+    for (int i = 0 ; i < tree.size() ; i++)
+    {
+        if (tree[i].size() != 0)
+        {
+            return i;
+        }
+    }
+
+    return -1;
+}
 
 int main(int argc, char *argv[])
 {
-
     auto tree = readTree();
+    // printTree(tree);
 
-    //printTree(tree);
+    int root = findRoot(tree);
 
-    int a = bfs(tree, 0);
-    int b = bfs(tree, a);
+    // Critical W Path from 0 - 619513 -> 666360
+    auto a = bfs(tree, root);
+    auto b = bfs(tree, *(a.first.begin()));
 
-    printf("\nW Diameter is %d -> %d", a, b);
+    vector<int> path = b.first;
+    int wdiameter = b.second;
+
+    assert(isPath(tree, path));
+    assert(wdiameter == checkWDiameter(path));
+
+    printf("Root : %d\n", root);
+    printf("Kink : %d\n", wdiameter);
+    printf("Edges: %ld\n", path.size());
+    printf("Path : %d ~> %d\n", *(path.end() - 1), *path.begin());
+
+    //for(auto v: path)
+    //{
+        //cout << v << endl;
+    //}
 
     return 0;
 }
