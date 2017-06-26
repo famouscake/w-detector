@@ -56,12 +56,12 @@ pair<vector<int>, int> bfs(vector<vector<int>> tree, int root)
         }
     }
 
-    cout << endl;
-    for (int i = 0; i < distance.size(); i++)
-    {
+    //cout << endl;
+    //for (int i = 0; i < distance.size(); i++)
+    //{
         // printf("d(%d, %d) = %d, w(%d, %d) = %d, p(%d) = %d\n", root, i, distance[i], root, i, wdistance[i], i, parent[i]);
         // printf("d(%d, %d) = %d  |  w(%d, %d) = %d  |  p(%d) = %d\n", root, i, distance[i], root, i, wdistance[i], i, parent[i]);
-    }
+    //}
 
     int i = wlast;
     vector<int> path;
@@ -74,7 +74,7 @@ pair<vector<int>, int> bfs(vector<vector<int>> tree, int root)
 
     path.push_back(i);
 
-    // printf("Path %d ~> %d is %ld edges and %d kink.", *(path.end() - 1), *path.begin(), path.size(), wdistance[*path.begin()]);
+    //printf("Path %d ~> %d is %ld edges and %d kink.\n", *(path.end() - 1), *path.begin(), path.size(), wdistance[*path.begin()]);
 
     // return wlast;
     return {path, wdistance[*path.begin()]};
@@ -171,9 +171,10 @@ int findRoot(vector<vector<int>> tree)
 int main(int argc, char *argv[])
 {
     auto tree = readTree();
-    // printTree(tree);
+    //printTree(tree);
 
     int root = findRoot(tree);
+    //root = 5;
 
     // Critical W Path from 0 - 619513 -> 666360
     auto a = bfs(tree, root);
