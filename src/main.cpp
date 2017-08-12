@@ -1,112 +1,194 @@
 // Copyright 2017 Peter Hristov
+#include <cassert>
 #include <iomanip>
 #include <iostream>
 #include <queue>
+#include <set>
 #include <vector>
-#include <cassert>
+
+#include <sys/time.h>
 
 using namespace std;
 
-pair<vector<int>, int> bfs(vector<vector<int>> tree, int root)
+vector<int> parent;
+vector<int> O;
+vector<int> H;
+vector<set<int>> L;
+
+bool isKink(int s, int u, int v, const vector<int> &h)
 {
-    int last = -1;
-    int wlast = -1;
-    queue<int> q;
-    vector<int> distance(tree.size(), -1);
-    vector<int> wdistance(tree.size(), -1);
-    vector<int> parent(tree.size(), -1);
+    return (h[s] > h[u] && h[s] > h[v]) || (h[s] < h[u] && h[s] < h[v]);
+}
 
-    q.push(root);
-    distance[root] = 0;
-    parent[root] = root;
-    wdistance[root] = 0;
-
-    while (!q.empty())
+void printArray(const set<int> &data)
+{
+    // for (int i = 0; i < data.size(); i++)
+    for (const auto &i : data)
     {
-        int u = q.front();
-        q.pop();
+        printf("%3d ", i);
+    }
+}
 
-        last = u;
+void DFS(const vector<vector<int>> &T, const vector<int> &h, const int s)
+{
+    //cout << "Forwards at  : " << s << endl;
 
-        if (wdistance[u] >= wdistance[wlast])
+    // BASE CASE
+    // When at a leaf which is not the root
+    if (1 == T[s].size() && s != parent[s])
+    {
+        return;
+    }
+
+    // Forwards
+    for (auto v : T[s])
+    {
+        if (-1 == parent[v])
         {
-            wlast = u;
+            parent[v] = s;
+            DFS(T, h, v);
+        }
+    }
+
+    // No Leaves can go here.
+    //cout << "Backwards at : " << s << endl;
+
+    // Calculate Height.
+    for (auto u : T[s])
+    {
+        if (u == parent[s])
+        {
+            continue;
         }
 
-        for (int v : tree[u])
+        if (L[u].empty())
         {
-            if (distance[v] == -1)
+            H[s] = max(H[s], H[u]);
+        }
+        else
+        {
+            for (auto v : L[u])
             {
-                distance[v] = distance[u] + 1;
-                parent[v] = u;
-
-                // If both v and parent[u] are bigger or smaller than u
-                // if ((u - v) * (u - parent[u]) > 0 && u != root)
-                if (((u > v && u > parent[u]) || (u < v && u < parent[u])) && u != root)
-                {
-                    wdistance[v] = wdistance[u] + 1;
-                }
-                else
-                {
-                    wdistance[v] = wdistance[u];
-                }
-
-                q.push(v);
+                H[s] = max(H[s], H[u] + isKink(u, s, v, h));
             }
         }
     }
 
+    // Build L[u]
+    for (auto u : T[s])
+    {
+        if (u == parent[s])
+        {
+            continue;
+        }
+
+        if (L[u].empty())
+        {
+            if (H[s] == H[u])
+            {
+                L[s].insert(u);
+            }
+        }
+        else
+        {
+            for (auto v : L[u])
+            {
+                if (H[s] == H[u] + isKink(u, s, v, h))
+                {
+                    L[s].insert(u);
+                }
+            }
+        }
+    }
+
+    int maxCombine = 0;
+
+    // Find the max combine.
+    for (const auto &u : T[s])
+    {
+        if (u == parent[s])
+        {
+            continue;
+        }
+
+        for (const auto &v : T[s])
+        {
+            if (v == parent[s] || v == u)
+            {
+                continue;
+            }
+
+            int temp = H[u] + H[v];
+
+            // Find one which is kink
+            if (!L[u].empty())
+            {
+                for (auto t : L[u])
+                {
+                    if (isKink(u, t, s, h))
+                    {
+                        temp++;
+                        break;
+                    }
+                }
+            }
+
+            // Find one which is kink
+            if (!L[v].empty())
+            {
+                for (auto t : L[v])
+                {
+                    if (isKink(v, t, s, h))
+                    {
+                        temp++;
+                        break;
+                    }
+                }
+            }
+
+            if (isKink(s, u, v, h))
+            {
+                temp++;
+            }
+
+            maxCombine = max(maxCombine, temp);
+        }
+    }
+
+    // Get max optimal solution for children.
+    for (const auto &u : T[s])
+    {
+        if (u == parent[s])
+        {
+            continue;
+        }
+
+        O[s] = max(O[s], O[u]);
+    }
+
+    O[s] = max(O[s], maxCombine);
+
+
+    //cout << endl << "Height of " << s << " is   : " << H[s];
+    //cout << endl << "Combine of " << s << " is  : " << maxCombine;
+    //cout << endl << "Optimal of " << s << " is  : " << O[s];
+    //cout << endl << "Max Children are : ";
+    //printArray(L[s]);
     //cout << endl;
-    //for (int i = 0; i < distance.size(); i++)
-    //{
-        // printf("d(%d, %d) = %d, w(%d, %d) = %d, p(%d) = %d\n", root, i, distance[i], root, i, wdistance[i], i, parent[i]);
-        // printf("d(%d, %d) = %d  |  w(%d, %d) = %d  |  p(%d) = %d\n", root, i, distance[i], root, i, wdistance[i], i, parent[i]);
-    //}
-
-    int i = wlast;
-    vector<int> path;
-
-    while (parent[i] != i)
-    {
-        path.push_back(i);
-        i = parent[i];
-    }
-
-    path.push_back(i);
-
-    //printf("Path %d ~> %d is %ld edges and %d kink.\n", *(path.end() - 1), *path.begin(), path.size(), wdistance[*path.begin()]);
-
-    // return wlast;
-    return {path, wdistance[*path.begin()]};
-}
-
-vector<vector<int>> readTree()
-{
-    int vertices = 0;
-
-    cin >> vertices;
-
-    vector<vector<int>> tree(vertices);
-
-    int u, v;
-
-    while (cin >> u >> v)
-    {
-        tree[u].push_back(v);
-        tree[v].push_back(u);
-    }
-
-    return tree;
+    //cout << "-----------------------------------";
+    //cout << endl;
 }
 
 /**
  * Write tree grid to STDIN
  */
-void printTree(const std::vector<std::vector<int>> &data)
+void printTree(const std::vector<std::vector<int>> &data, const vector<int> &h)
 {
     for (int i = 0; i < data.size(); i++)
     {
-        std::cout << std::endl << std::setw(4) << i << " - ";
+        std::cout << std::endl
+                  << std::setw(4) << i << " - (" << setw(3) << h[i] << ")"
+                  << ":";
         for (const auto element : data[i])
         {
             std::cout << std::setw(4) << element;
@@ -116,13 +198,13 @@ void printTree(const std::vector<std::vector<int>> &data)
     std::cout << std::endl;
 }
 
-int checkWDiameter(vector<int> path)
+int checkWDiameter(const vector<int> &path, const vector<int> &h)
 {
     int wd = 0;
 
-    for(int i = 1; i < path.size() - 1 ; i++)
+    for (int i = 1; i < path.size() - 1; i++)
     {
-        if ((path[i] > path[i-1] && path[i] > path[i+1]) || (path[i] < path[i-1] && path[i] < path[i+1]))
+        if ((h[path[i]] > h[path[i - 1]] && h[path[i]] > h[path[i + 1]]) || (h[path[i]] < h[path[i - 1]] && h[path[i]] < h[path[i + 1]]))
         {
             wd++;
         }
@@ -133,11 +215,11 @@ int checkWDiameter(vector<int> path)
 
 bool isPath(vector<vector<int>> tree, vector<int> path)
 {
-    for(int u = 0; u < path.size() - 1 ; u++)
+    for (int u = 0; u < path.size() - 1; u++)
     {
         bool foundEdge = false;
 
-        for (auto v: tree[path[u]])
+        for (auto v : tree[path[u]])
         {
             if (v == path[u + 1])
             {
@@ -155,9 +237,9 @@ bool isPath(vector<vector<int>> tree, vector<int> path)
     return true;
 }
 
-int findRoot(vector<vector<int>> tree)
+int findRoot(const vector<vector<int>> &tree)
 {
-    for (int i = 0 ; i < tree.size() ; i++)
+    for (int i = 0; i < tree.size(); i++)
     {
         if (tree[i].size() != 0)
         {
@@ -168,33 +250,84 @@ int findRoot(vector<vector<int>> tree)
     return -1;
 }
 
+pair<vector<vector<int>>, vector<int>> readTree()
+{
+    int vertices = 0;
+
+    cin >> vertices;
+
+    vector<int> heights(vertices);
+    vector<vector<int>> tree(vertices);
+
+    int u, v;
+
+    for (int i = 0; i < heights.size(); i++)
+    {
+        cin >> u >> v;
+        heights[v] = u;
+        // heights[i] = i;
+    }
+
+    while (cin >> u >> v)
+    {
+        tree[u].push_back(v);
+        tree[v].push_back(u);
+    }
+
+    return {tree, heights};
+}
+
+struct timeval startTime;
+struct timeval endTime;
+
 int main(int argc, char *argv[])
 {
-    auto tree = readTree();
-    //printTree(tree);
+    auto data = readTree();
+    auto tree = data.first;
+    auto heights = data.second;
+
+    O = vector<int>(tree.size(), 0);
+    H = vector<int>(tree.size(), 0);
+    L = vector<set<int>>(tree.size());
+
+    parent = vector<int>(tree.size(), -1);
+
+    gettimeofday(&startTime, NULL);
 
     int root = findRoot(tree);
-    //root = 5;
+    //int root = 10;
 
-    // Critical W Path from 0 - 619513 -> 666360
-    auto a = bfs(tree, root);
-    auto b = bfs(tree, *(a.first.begin()));
+    parent[root] = root;
 
-    vector<int> path = b.first;
-    int wdiameter = b.second;
+    //printTree(tree, heights);
 
-    assert(isPath(tree, path));
-    assert(wdiameter == checkWDiameter(path));
+    DFS(tree, heights, root);
 
-    printf("Root : %d\n", root);
-    printf("Kink : %d\n", wdiameter);
-    printf("Edges: %ld\n", path.size());
-    printf("Path : %d ~> %d\n", *(path.end() - 1), *path.begin());
+    int s = root;
 
-    //for(auto v: path)
-    //{
-        //cout << v << endl;
-    //}
+    gettimeofday(&endTime, NULL);
+
+    
+    long nSeconds = endTime.tv_sec - startTime.tv_sec;
+    long nMSeconds = endTime.tv_usec - startTime.tv_usec;
+
+    if (nMSeconds < 0) { // negative microsecond delta
+        nSeconds--;
+        nMSeconds += 1000000;
+    } // negative microsecond delta
+
+
+    cout << O[s] << endl;
+    printf("%3ld.%06ld\n", nSeconds, nMSeconds);
+
+    
+    //cout << endl << "Height of " << s << " is   : " << H[s];
+    //cout << endl << "Optimal of " << s << " is  : " << O[s];
+    //cout << endl << "Max Children are : ";
+    //printArray(L[s]);
+    //cout << endl;
+    //cout << "-----------------------------------";
+    //cout << endl;
 
     return 0;
 }
