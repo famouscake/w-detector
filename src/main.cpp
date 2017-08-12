@@ -15,6 +15,8 @@ vector<int> O;
 vector<int> H;
 vector<set<int>> L;
 
+vector<vector<int>> Levels;
+
 bool isKink(int s, int u, int v, const vector<int> &h)
 {
     return (h[s] > h[u] && h[s] > h[v]) || (h[s] < h[u] && h[s] < h[v]);
@@ -26,6 +28,183 @@ void printArray(const set<int> &data)
     for (const auto &i : data)
     {
         printf("%3d ", i);
+    }
+}
+
+void ComputeOptimalValues(const vector<vector<int>> &T, const vector<int> &h, const int s)
+{
+    // Calculate Height.
+    for (auto u : T[s])
+    {
+        if (u == parent[s])
+        {
+            continue;
+        }
+
+        if (L[u].empty())
+        {
+            H[s] = max(H[s], H[u]);
+        }
+        else
+        {
+            for (auto v : L[u])
+            {
+                H[s] = max(H[s], H[u] + isKink(u, s, v, h));
+            }
+        }
+    }
+
+    // Build L[u]
+    for (auto u : T[s])
+    {
+        if (u == parent[s])
+        {
+            continue;
+        }
+
+        if (L[u].empty())
+        {
+            if (H[s] == H[u])
+            {
+                L[s].insert(u);
+            }
+        }
+        else
+        {
+            for (auto v : L[u])
+            {
+                if (H[s] == H[u] + isKink(u, s, v, h))
+                {
+                    L[s].insert(u);
+                }
+            }
+        }
+    }
+
+    int maxCombine = 0;
+
+    // Find the max combine.
+    for (const auto &u : T[s])
+    {
+        if (u == parent[s])
+        {
+            continue;
+        }
+
+        for (const auto &v : T[s])
+        {
+            if (v == parent[s] || v == u)
+            {
+                continue;
+            }
+
+            int temp = H[u] + H[v];
+
+            // Find one which is kink
+            if (!L[u].empty())
+            {
+                for (auto t : L[u])
+                {
+                    if (isKink(u, t, s, h))
+                    {
+                        temp++;
+                        break;
+                    }
+                }
+            }
+
+            // Find one which is kink
+            if (!L[v].empty())
+            {
+                for (auto t : L[v])
+                {
+                    if (isKink(v, t, s, h))
+                    {
+                        temp++;
+                        break;
+                    }
+                }
+            }
+
+            if (isKink(s, u, v, h))
+            {
+                temp++;
+            }
+
+            maxCombine = max(maxCombine, temp);
+        }
+    }
+
+    // Get max optimal solution for children.
+    for (const auto &u : T[s])
+    {
+        if (u == parent[s])
+        {
+            continue;
+        }
+
+        O[s] = max(O[s], O[u]);
+    }
+
+    O[s] = max(O[s], maxCombine);
+
+
+    cout << endl << "Height of " << s << " is   : " << H[s];
+    cout << endl << "Combine of " << s << " is  : " << maxCombine;
+    cout << endl << "Optimal of " << s << " is  : " << O[s];
+    cout << endl << "Max Children are : ";
+    printArray(L[s]);
+    cout << endl;
+    cout << "-----------------------------------";
+    cout << endl;
+}
+
+
+void ComputeWDiameter(const vector<vector<int>> &T, const vector<int> &h)
+{
+    int n = T.size() - 1;
+
+    while(n >= 0)
+    {
+        for(const int &s : Levels[n])
+        {
+            ComputeOptimalValues(T, h, s);
+        }
+
+        n--;
+    }
+}
+
+void BFS(const vector<vector<int>> &T, const int s)
+{
+    queue<int> q;
+    vector<int> dist(T.size(), -1);
+    vector<int> parent(T.size(), -1);
+
+    parent[s] = s;
+    dist[s] = 0;
+    q.push(s);
+
+    Levels[0].push_back(s);
+
+    while(!q.empty())
+    {
+        int u = q.front();
+        q.pop();
+
+        for(const int &v: T[u])
+        {
+            if(-1 == parent[v])
+            {
+                cout << "not at - " << v << endl;
+                parent[v] = u;
+                dist[v] = dist[u] + 1;
+
+                Levels[dist[v]].push_back(v);
+
+                q.push(v);
+            }
+        }
     }
 }
 
@@ -169,15 +348,16 @@ void DFS(const vector<vector<int>> &T, const vector<int> &h, const int s)
     O[s] = max(O[s], maxCombine);
 
 
-    //cout << endl << "Height of " << s << " is   : " << H[s];
-    //cout << endl << "Combine of " << s << " is  : " << maxCombine;
-    //cout << endl << "Optimal of " << s << " is  : " << O[s];
-    //cout << endl << "Max Children are : ";
-    //printArray(L[s]);
-    //cout << endl;
-    //cout << "-----------------------------------";
-    //cout << endl;
+    cout << endl << "Height of " << s << " is   : " << H[s];
+    cout << endl << "Combine of " << s << " is  : " << maxCombine;
+    cout << endl << "Optimal of " << s << " is  : " << O[s];
+    cout << endl << "Max Children are : ";
+    printArray(L[s]);
+    cout << endl;
+    cout << "-----------------------------------";
+    cout << endl;
 }
+
 
 /**
  * Write tree grid to STDIN
@@ -290,18 +470,24 @@ int main(int argc, char *argv[])
     H = vector<int>(tree.size(), 0);
     L = vector<set<int>>(tree.size());
 
+    Levels = vector<vector<int>>(tree.size());
+
     parent = vector<int>(tree.size(), -1);
 
     gettimeofday(&startTime, NULL);
 
-    int root = findRoot(tree);
-    //int root = 10;
+    //int root = findRoot(tree);
+    int root = 10;
 
     parent[root] = root;
 
-    //printTree(tree, heights);
+    printTree(tree, heights);
 
     DFS(tree, heights, root);
+    //BFS(tree, root);
+    //ComputeWDiameter(tree, heights);
+
+    printTree(Levels, heights);
 
     int s = root;
 
