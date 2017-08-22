@@ -33,6 +33,29 @@ void printArray(const set<int> &data)
 
 void ComputeOptimalValues(const vector<vector<int>> &T, const vector<int> &h, const int s)
 {
+    if (1 == T[s].size() && s != parent[s])
+    {
+        O[s] = 0;
+        H[s] = 0;
+
+        return;
+    }
+
+
+    // See if children are not defined.
+    for (auto u : T[s])
+    {
+        if (u == parent[s]) { continue; }
+
+        if (H[u] == -1 || O[u] == -1)
+        {
+            assert(H[u] != -1 && O[u] != -1);
+            //cout << "At " << s << " and " << u << " is not defined. Parent - " << parent[s] << endl;
+            //cout << "HALP!!!";
+        }
+    }
+
+
     // Calculate Height.
     for (auto u : T[s])
     {
@@ -149,14 +172,14 @@ void ComputeOptimalValues(const vector<vector<int>> &T, const vector<int> &h, co
     O[s] = max(O[s], maxCombine);
 
 
-    cout << endl << "Height of " << s << " is   : " << H[s];
-    cout << endl << "Combine of " << s << " is  : " << maxCombine;
-    cout << endl << "Optimal of " << s << " is  : " << O[s];
-    cout << endl << "Max Children are : ";
-    printArray(L[s]);
-    cout << endl;
-    cout << "-----------------------------------";
-    cout << endl;
+    //cout << endl << "Height of " << s << " is   : " << H[s];
+    //cout << endl << "Combine of " << s << " is  : " << maxCombine;
+    //cout << endl << "Optimal of " << s << " is  : " << O[s];
+    //cout << endl << "Max Children are : ";
+    //printArray(L[s]);
+    //cout << endl;
+    //cout << "-----------------------------------";
+    //cout << endl;
 }
 
 
@@ -179,7 +202,7 @@ void BFS(const vector<vector<int>> &T, const int s)
 {
     queue<int> q;
     vector<int> dist(T.size(), -1);
-    vector<int> parent(T.size(), -1);
+    //vector<int> parent(T.size(), -1);
 
     parent[s] = s;
     dist[s] = 0;
@@ -196,7 +219,6 @@ void BFS(const vector<vector<int>> &T, const int s)
         {
             if(-1 == parent[v])
             {
-                cout << "not at - " << v << endl;
                 parent[v] = u;
                 dist[v] = dist[u] + 1;
 
@@ -210,7 +232,7 @@ void BFS(const vector<vector<int>> &T, const int s)
 
 void DFS(const vector<vector<int>> &T, const vector<int> &h, const int s)
 {
-    //cout << "Forwards at  : " << s << endl;
+    cout << "Forwards at  : " << s << endl;
 
     // BASE CASE
     // When at a leaf which is not the root
@@ -230,7 +252,7 @@ void DFS(const vector<vector<int>> &T, const vector<int> &h, const int s)
     }
 
     // No Leaves can go here.
-    //cout << "Backwards at : " << s << endl;
+    cout << "Backwards at : " << s << endl;
 
     // Calculate Height.
     for (auto u : T[s])
@@ -348,14 +370,14 @@ void DFS(const vector<vector<int>> &T, const vector<int> &h, const int s)
     O[s] = max(O[s], maxCombine);
 
 
-    cout << endl << "Height of " << s << " is   : " << H[s];
-    cout << endl << "Combine of " << s << " is  : " << maxCombine;
-    cout << endl << "Optimal of " << s << " is  : " << O[s];
-    cout << endl << "Max Children are : ";
-    printArray(L[s]);
-    cout << endl;
-    cout << "-----------------------------------";
-    cout << endl;
+    //cout << endl << "Height of " << s << " is   : " << H[s];
+    //cout << endl << "Combine of " << s << " is  : " << maxCombine;
+    //cout << endl << "Optimal of " << s << " is  : " << O[s];
+    //cout << endl << "Max Children are : ";
+    //printArray(L[s]);
+    //cout << endl;
+    //cout << "-----------------------------------";
+    //cout << endl;
 }
 
 
@@ -466,8 +488,8 @@ int main(int argc, char *argv[])
     auto tree = data.first;
     auto heights = data.second;
 
-    O = vector<int>(tree.size(), 0);
-    H = vector<int>(tree.size(), 0);
+    O = vector<int>(tree.size(), -1);
+    H = vector<int>(tree.size(), -1);
     L = vector<set<int>>(tree.size());
 
     Levels = vector<vector<int>>(tree.size());
@@ -476,18 +498,18 @@ int main(int argc, char *argv[])
 
     gettimeofday(&startTime, NULL);
 
-    //int root = findRoot(tree);
-    int root = 10;
+    int root = findRoot(tree);
+    //int root = 10;
 
     parent[root] = root;
 
-    printTree(tree, heights);
+    //printTree(tree, heights);
 
-    DFS(tree, heights, root);
-    //BFS(tree, root);
-    //ComputeWDiameter(tree, heights);
+    //DFS(tree, heights, root);
+    BFS(tree, root);
+    ComputeWDiameter(tree, heights);
 
-    printTree(Levels, heights);
+    //printTree(Levels, heights);
 
     int s = root;
 
