@@ -158,6 +158,8 @@ void ComputeOptimalValues(const vector<vector<int>> &T, const vector<int> &h, co
         }
     }
 
+    maxCombine = max(H[s], maxCombine);
+
     // Get max optimal solution for children.
     for (const auto &u : T[s])
     {
@@ -356,6 +358,8 @@ void DFS(const vector<vector<int>> &T, const vector<int> &h, const int s)
         }
     }
 
+    maxCombine = max(maxCombine, H[s]);
+
     // Get max optimal solution for children.
     for (const auto &u : T[s])
     {
@@ -500,6 +504,8 @@ int main(int argc, char *argv[])
 
     int root = findRoot(tree);
     //int root = 10;
+    
+    //cout << root;
 
     parent[root] = root;
 
